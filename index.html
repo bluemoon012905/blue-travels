@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Blue's map of places travelled in China." />
+    <title>China map — blue travels</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="site-header map-header">
+        <span class="header-stamp">Blue travel / Homepage</span>
+      </header>
+      <main id="top">
+        <section class="map-section map-only" id="map" aria-labelledby="map-title">
+          <div class="map-meta map-meta-row" id="map-title">
+            <button class="map-editor-toggle" type="button" data-map-editor-toggle hidden>edit locally</button>
+          </div>
+          <div class="map-layout">
+            <div class="map-card real-map-card">
+              <a class="map-source" href="https://commons.wikimedia.org/wiki/File:China_provinces_blank.svg" target="_blank" rel="noreferrer">Province map · Wikimedia Commons ↗</a>
+              <section class="map-editor" data-map-editor hidden aria-label="Local map editor">
+                <div class="map-editor-heading">
+                  <strong>Local map editor</strong>
+                  <span>Changes stay in this browser.</span>
+                </div>
+                <label class="map-editor-control">Map size
+                  <input data-map-scale type="range" min="0.65" max="8" step="0.01" value="1" />
+                  <output data-map-scale-output>100%</output>
+                </label>
+                <div class="map-editor-actions">
+                  <button type="button" data-map-reset>reset</button>
+                  <button type="button" data-map-clear>clear saved layout</button>
+                </div>
+                <p class="map-editor-help">Drag the map to move it. Drag a city label to move that marker.</p>
+              </section>
+              <div class="map-visual">
+                <img class="real-map" src="https://commons.wikimedia.org/wiki/Special:FilePath/China%20provinces%20blank.svg" alt="Blank map of China's provinces with province boundaries" />
+                <svg class="route-overlay" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
+                  <path class="route-line" d="M74.1 25.8 Q72.7 28.5 72.8 32.8" />
+                </svg>
+                <a class="city city-shenyang" href="posts/2026-10-21-shenyang-dalian.md" aria-label="Read note about Shenyang to Dalian" data-map-x="74.1" data-map-y="25.8" data-map-marker="shenyang"><span class="city-label"><b>沈阳</b><small>Shenyang</small></span></a>
+                <a class="city city-dalian" href="posts/2026-10-21-shenyang-dalian.md" aria-label="Read note about Shenyang to Dalian" data-map-x="72.8" data-map-y="32.8" data-map-marker="dalian"><span class="city-label"><b>大连</b><small>Dalian</small></span></a>
+              </div>
+            </div>
+            <aside class="map-notes" aria-label="Map notes">
+              <a class="footnote" href="posts/2026-10-21-shenyang-dalian.md">
+                <span class="footnote-number">1</span>
+                <span class="footnote-date">2026-10-21<br /><small>Shenyang → Dalian</small></span>
+              </a>
+            </aside>
+          </div>
+        </section>
+      </main>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>

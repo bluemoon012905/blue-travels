@@ -1,2 +1,29 @@
-# blue-travels
-bahhhh
+# blue travels
+
+A small, static travel journal for Markdown notes and a personal map of China.
+
+Radio assets live together under `assets/radio/`: the two radio illustrations are in `images/`, and bundled recordings are in `audio/`. The player references local audio only. The map image and web fonts are still loaded from external Wikimedia and Google Fonts URLs.
+
+## Add a note
+
+1. Drop a Markdown file into `posts/`.
+2. Add its filename, title, place, and date to `posts/index.json`.
+3. Deploy the folder to any static host (GitHub Pages, Netlify, Cloudflare Pages, etc.).
+
+The homepage reads the first three entries from the manifest and renders their opening paragraph. Province marks are saved in the visitor's browser via `localStorage`; they are intentionally local to each reader.
+
+## Adjust the map locally
+
+Open the map with `?edit-map=1` (for example, `http://localhost:8000/?edit-map=1`) to reveal the local editor. Drag the map to reposition it, drag a city label to reposition that marker, and use the size slider to adjust the default map scale. Reset or clear the saved layout from the editor at any time. The layout is stored only in that browser's `localStorage`. On each visit, the map starts at whole-China view and animates to that saved default; visitors can then drag and wheel-zoom freely without changing the saved default.
+
+## Adding a stop
+
+For each new stop on the map:
+
+1. Add or update a Markdown post in `posts/` and add its metadata to `posts/index.json`.
+2. In `index.html`, add a city label inside `.map-visual` using the `.city` class. Adjust its `left` and `top` percentages in `styles.css` to place it on the map.
+3. Extend the `.route-overlay` with a curved SVG `<path>` to connect the new city or cities. Keep the route dashed with `stroke-dasharray`.
+4. Add a numbered `<circle>` and `<text>` on the route. Make the number link to the Markdown post by wrapping it in an SVG `<a>` element when the number needs to be clickable.
+5. Add a matching linked entry in `.map-notes` on the right, with the same number and the post date.
+
+The current first stop is Shenyang (沈阳) to Dalian (大连), footnote 1, dated `2026-10-21`.
