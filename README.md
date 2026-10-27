@@ -2,7 +2,7 @@
 
 A small, static travel journal for Markdown notes and a personal map of China.
 
-Radio assets live together under `assets/radio/`: the two radio illustrations are in `images/`, and bundled recordings are in `audio/`. The player references local audio only. The map image and web fonts are still loaded from external Wikimedia and Google Fonts URLs.
+Radio assets live together under `assets/radio/`: the two radio illustrations are in `images/`, and bundled recordings are in `audio/`. The player references local audio only. The map is bundled at `assets/maps/china-provinces-with-names.svg`; the source link in the page points back to Wikimedia Commons. Web fonts are still loaded from Google Fonts.
 
 ## Add a note
 

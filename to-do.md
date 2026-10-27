@@ -2,7 +2,7 @@
 
 ## Radio research — 2026-10-24
 
-Current library: 11 songs, 0 ads/station spots. The player already uses weighted rotation and keeps the previous six songs out of the draw.
+Current library: 15 songs, 0 ads/station spots. The player already uses weighted rotation and keeps the previous six songs out of the draw.
 
 ### Download queue
 
@@ -10,18 +10,18 @@ All candidates below are early recordings found through Wikimedia Commons’ 192
 
 - [ ] `audio/royal-garden-blues.mp3` — Mary Stafford and Her Jazz Band, “Royal Garden Blues” (1921, 3:06). [1921 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1921)
 - [ ] `audio/blue-streak.opus` — Roy Bargy, “Blue Streak” (1921, 3:14). [1921 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1921)
-- [ ] `audio/april-showers-1921.mp3` — Paul Whiteman, “April Showers” (1921, 3:18). [1921 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1921)
+- [x] `audio/april-showers-1922.mp3` — “April Showers” (1922 recording). [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:April_Showers_(1922_recording).mp3)
 - [ ] `audio/downhearted-blues-alberta-hunter.ogg` — Alberta Hunter, “Downhearted Blues” (1922, 3:05). [1922 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1922)
 - [ ] `audio/lovable-eyes.mp3` — The Columbians, “Lovable Eyes” (1922, 3:16). [1922 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1922)
 - [ ] `audio/on-the-alamo.mp3` — Benson Orchestra of Chicago, “On the Alamo” (1922, 3:25). [1922 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1922)
-- [ ] `audio/panama-new-orleans-rhythm-kings.mp3` — New Orleans Rhythm Kings, “Panama” (1922, 2:34). [1922 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1922)
+- [x] `audio/panama-new-orleans-rhythm-kings.mp3` — New Orleans Rhythm Kings, “Panama” (1922, 2:34). [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Panama_(1922_sound_recording).mp3)
 - [ ] `audio/runnin-wild-virginians.mp3` — The Virginians, “Runnin’ Wild” (1922, 2:58). [1922 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1922)
 - [ ] `audio/way-down-yonder-in-new-orleans.mp3` — Georgians, “Way Down Yonder in New Orleans” (1922, 2:56). [1922 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1922)
 - [ ] `audio/malayan-foxtrot.ogg` — Banda Victor, “Malayan” (1920, 3:13). [1920 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1920)
 - [ ] `audio/avalon-art-hickman.wav` — Art Hickman’s Orchestra, “Avalon” (1920, 2:56). [1920 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1920)
 - [ ] `audio/crazy-blues-mamie-smith.ogg` — Mamie Smith, “Crazy Blues” (1920, 3:31). [1920 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1920)
-- [ ] `audio/my-isle-of-golden-dreams.mp3` — “My Isle of Golden Dreams” (1920, 3:02). [1920 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1920)
-- [ ] `audio/everybodys-jazzin-it.ogg` — Collins & Harlan, “Everybody’s Jazzin’ It” (1917, 2:27). [file page](https://commons.wikimedia.org/wiki/File:Collins_%26_Harlan_-_Everybody%27s_Jazzin%27_It_%281917%29.ogg)
+- [x] `audio/my-isle-of-golden-dreams.mp3` — “My Isle of Golden Dreams” (1920, 3:02). [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:My_isle_of_golden_dreams_(1920_recording).mp3)
+- [x] `audio/everybodys-jazzin-it.ogg` — Collins & Harlan, “Everybody’s Jazzin’ It” (1917, 2:27). [file page](https://commons.wikimedia.org/wiki/File:Collins_%26_Harlan_-_Everybody%27s_Jazzin%27_It_%281917%29.ogg)
 
 Previously researched but still pending download: “Hesitating Blues,” “Farewell Blues,” “Jazzin’ Babies Blues,” “Pale Moon,” “Charley, My Boy,” “It Had to Be You,” “I’ll Build a Stairway to Paradise,” “Yelping Hound Blues,” and “Daffy-Dill.” Wikimedia temporarily rate-limited the download attempts.
 

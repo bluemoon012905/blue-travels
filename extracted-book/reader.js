@@ -4,8 +4,19 @@ const editions = {
   simplified: { label: '简体中文 · Simplified Chinese', file: 'chinese-simplified.md' },
 };
 
+const chapters = [
+  { title: 'Benediction', page: 4 },
+  { title: 'A Happy Family', page: 64 },
+  { title: 'A Cake of Soap', page: 88 },
+  { title: 'Warning to the People', page: 122 },
+  { title: 'Professor Kao', page: 140 },
+  { title: 'A Hermit at Large', page: 172 },
+  { title: 'Divorce', page: 242 },
+];
+
 const pageElement = document.querySelector('#book-page');
 const editionSelect = document.querySelector('#edition-select');
+const chapterSelect = document.querySelector('#chapter-select');
 const currentElement = document.querySelector('#page-current');
 const totalElement = document.querySelector('#page-total');
 const pageInput = document.querySelector('#page-input');
@@ -49,11 +60,26 @@ function renderPage() {
   totalElement.textContent = String(pages.length);
   pageInput.value = String(currentPage);
   pageInput.max = String(pages.length);
+  chapterSelect.value = String(findChapterIndex(page.number));
   previousButton.disabled = currentPage <= 1;
   nextButton.disabled = currentPage >= pages.length;
   document.title = `Hesitation · ${editions[currentEdition].label} · page ${currentPage}`;
   history.replaceState(null, '', `?edition=${encodeURIComponent(currentEdition)}&page=${currentPage}`);
   window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function findChapterIndex(scanPage) {
+  let chapterIndex = 0;
+  chapters.forEach((chapter, index) => {
+    if (scanPage >= chapter.page) chapterIndex = index;
+  });
+  return chapterIndex;
+}
+
+function populateChapters() {
+  chapterSelect.innerHTML = chapters
+    .map((chapter, index) => `<option value="${index}">${escapeHtml(chapter.title)}</option>`)
+    .join('');
 }
 
 function escapeHtml(value) {
@@ -80,10 +106,17 @@ previousButton.addEventListener('click', () => { if (currentPage > 1) { currentP
 nextButton.addEventListener('click', () => { const pages = pagesByEdition.get(currentEdition) || []; if (currentPage < pages.length) { currentPage += 1; renderPage(); } });
 editionSelect.addEventListener('change', () => { currentPage = 1; loadEdition(editionSelect.value).catch(showError); });
 pageInput.addEventListener('change', () => { currentPage = Number(pageInput.value) || 1; renderPage(); });
+chapterSelect.addEventListener('change', () => {
+  const chapter = chapters[Number(chapterSelect.value)];
+  const pages = pagesByEdition.get(currentEdition) || [];
+  const pageIndex = pages.findIndex((page) => page.number >= chapter.page);
+  if (pageIndex >= 0) { currentPage = pageIndex + 1; renderPage(); }
+});
 document.addEventListener('keydown', (event) => {
   if (event.target.matches('input, select')) return;
   if (event.key === 'ArrowLeft' && currentPage > 1) { currentPage -= 1; renderPage(); }
   if (event.key === 'ArrowRight') { const pages = pagesByEdition.get(currentEdition) || []; if (currentPage < pages.length) { currentPage += 1; renderPage(); } }
 });
 
+populateChapters();
 loadEdition(currentEdition).catch(showError);

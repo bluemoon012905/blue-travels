@@ -1,53 +1,28 @@
 # English
-
 OCR transcription from the English translation pages of the scanned book. Scan-page headings refer to the PDF page number. The cover page is included because it contains both language versions.
-
 ---
-
 ## Scan page 1
-
-=———_:,
-WOON
-004651748
-Alfie MGS
-ee Sy) 1, a coat ait fal
-『 Sy 全 | A ‘ Joe
-1 ie “一 一 一 一 一 aS)
-LS
-EC ALT AVIAN TA
-.” HESITATION
-
-Lu Shun
-Compiled and Annoted :
-By
-cer Jorgensen
-魯迅 te
-: MRPE Maat
+[Cover page, no story text.]
 
 ---
-
 ## Scan page 4
-
-o-4 .
-Net
 Benediction ‘
-
 ' The end of the year according to the lunar
-«alendar' is, after all, the right time for a year’
+‘Calendar’' is, after all, the right time for a year’
 j to end. A strange almost-new-year sort of
 atmosphere ‘seems to overlay? everything; pale
-H grey cloudsgat evening, against which flash the
+H grey clouds at evening, against which flash the
 t fot li ily crackers giving a thunderous
 Wi dst? hen god’s ascent into heaven.
 And as into it the scene grows noisier,
-~ and sextte on the air isthe sting of gunpowder.
+~ and sextte on the air is the sting of gunpowder.
 a a such a night I return to Lo Ching—my ‘home
-; town’ as I call it, but in reality I fave no home
+; town’ as I call it, but in reality I have no home
 & tere at all, Istay with Lo Shih Laoyeh, a
-relative one generation er than myself, a fellow
+relative one generation older than myself, a fellow
 who ought to be called rth Uncle.” He is a
 Chien-sheng, and talks a time about the old
-de virtues and the -old &thicsVAI find him not much
+virtues and the old ethics. I find him not much
 changed; a little aged of tse, but still without
 a whisker. We exchange salut: ms: After the
 “How are you?” he-tells me I’ve grown fat. With
@@ -55,37 +30,30 @@ that done, he at once commences a tirade* against
 the ‘new party.’ But I know: that the phrase io
 him still means poor Kang Yu-wei, and not the
 Renaissance, of which he probably has not even
-eard. We have at any rate nothing in common,
+heard. We have at any rate nothing in common,
 and before long I am left alone in the study.
 Next day I get up very late, and after
 lunching go out to call on some relatives-and
 friends. The day after is the same, and the day
-
-Gm
-" = bp cereus 004651748 w a
-
 ---
-
 ## Scan page 6
-
-
 after that, None of them has changed much, each
 is a’little older; and everywhere they are busily
-preparing for New Year prayers.of-blessing. It is
+preparing for New Year prayers of blessing. It is
 a great thing in Lo Ching: every one exerts
 himself’ to show reverence, exhausts himself in
 performing rites, and falls down before the god
-of benediction to ask favours for the year ahcad.
+of benediction to ask favours for the year ahead.
 There is much chicken-killing, geese-slaughtering, .
 and pork-buying; women go round with their
 arms raw and red from soaking in hot water
-preraring such fowl. Wher they are thoroughly
+preparing such fowl. When they are thoroughly
 cooked they are placed on the altar, with chopsticks
-punched into them at all angles, ahd offered up
+punched into them at all angles, and offered up
 as sacrifices at the. sixth watch.* Incense sticks
-and red candlesare lighted, and the meén (no
+and red candles are lighted, and the men (no
 women allowed) make obeisance’ -and  piously ‘
-invite the blessingspirits. to eat. away. And after
+invite the blessing spirits to eat away. And after
 this, of course, the crackers. Every year it is that
 way, and the same in every home—except those
 of the miserable poor who cannot buy either
@@ -94,32 +62,27 @@ like any other. The ‘sky is dark and gloomy, and
 in the afternoon snow falls—flakes* like plum
 blossoms darting and dancing across a screen of
 smoke and bustle, and making everything more
-eonfused. By the time I return home the roof-tiles
-are alrea@y washed white, and inside my room :
+confused. By the time I return home the roof-tiles
+are already washed white, and inside my room
 seems brighter. The reflection ‘from the snow ‘
 also touches up the large crimson character,
 LONGEVITY, which hangs on a board against the
 wall. It is said to be the work of the legendary
 Chen Tuan Laots. One of the scrolls" has fallen
-
-
-
 ---
-
 ## Scan page 8
-
 ad yi ry 2
 k down and is rolled up loosely and lying on the
-__ Tong table, but the other still admonishes' me;
+the long table, but the other still admonishes' me;
 j “Understand deeply the reason of things, be
 ‘moderate, and be gentle in heart and manner.”
 On the desk under the window are ‘incomplete
 volumes of the K’ang Hsi Dictionary, a set of
 Recent Thoughts, with collected commentaries,’ and
-the Four Books. How depressing! I decide fo
+the Four Books. How depressing! I decide to
 ’ return to-morrow, at the very latest, to the city.
 : The incident with ‘Hsiang-lin Sao also has
-very much disturbed me...This afternoon I went
+very much disturbed me... This afternoon I went
 to the eastern end of the town to visit a friend,
 I and while returning I encountered her at the
 edge of the canal. The look in her staring eyes
@@ -129,11 +92,11 @@ know in Lo Ching have apparently changed little,
 Hsiang-lin Sao was no longer the same. Her hair
 was all white, her face was alarmingly lean,
 hollow, and burnt a dark yellow. She looked com-
-pletely exhausted, not-at, all like a woman not yet
+pletely exhausted, not at all like a woman not yet
 forty,’ but like a wooden thing with an expression
 of “tragic sadness carved into it. Only the
 movement of her lustreless eyes showed that she
-still. lived. In one hand she carried a bambco
+still. lived. In one hand she carried a bamboo
 basket: inside it was an empty broken bowl; and
 she held herself up by leaning on a bamboo pole.
 She had apparently become a beggar.
@@ -143,11 +106,8 @@ I stood waiting to be asked for money.
 ' “That’s good—and very timely. Tell me, you
 : 7
 oe \
-
 ---
-
 ## Scan page 10
-
 hl F i
 are a scholar, a man who has seen the world, a
 man of knowledge and experience”—her faded
@@ -157,47 +117,40 @@ I could not, in ten thousand tries, have
 guessed what she would ask. I waited, shocked
 and puzzled, saying nothing.
 She moved nearer, lowered her voice, and
-spoke with great.secrecy and earnest ness: “It is
-sthis: after'a person dies is there indeed such a
+spoke with great secrecy and earnestness: “It is
+this: after a person dies is there indeed such a
 thing as the soul?” 6
 Involuntarily' I shuddered. Her_ eyes stuck
 into me like thorns. (Here was a fine thing!) I
-felt more embarrassed than a shoolboy given a
-surprise examination,. wjth the teacher standing
+felt more embarrassed than a schoolboy given a
+surprise examination, with the teacher standing
 right beside him. Whether there was such a thing
 as the ‘soul’ had never bothered me, and I had
 speculated little about it. How could I reply? In
-that brief moment I remembered that _many
-people in Lo Ching believed in some kipd of
+that brief moment I remembered that many
+people in Lo Ching believed in some kind of
 spirits, and probably she did too. Perhaps I should
-“just say it was rathér doubtful—but no, it was
+“just say it was rather doubtful—but no, it was
 better to let her go on ‘hoping. Why. should I
-burden a person obviously on the ‘last'road’ with
+burden a person obviously on the ‘last road’ with
 even more pain? Better for her sake say yes.
 “Perhaps,” I stammered. “Yes, I’ suppose
 there is,”
-
 “Then there is also a hell?”
-
-«“Ah—hell?” She had trapped me, and I could
+“Ah—hell?” She had trapped me, and I could
 only continue placatingly,* ‘Hell? Well, to be
 ‘logical, I dare say there ought to be. But, then,
 again—there may not be. What does it matter?”
-
-
-
 ---
-
 ## Scan page 12
-
-“Then in this hell do.all the deceased members
+“Then in this hell do all the deceased members
 of a family come together again, face to face?”
 “H’mm? Seeing face to face, eh?” I felt like
-a fgol. Whatever knowledge I possessed, whatever
+a fool. Whatever knowledge I possessed, whatever
 mental dexterity,’ was utterly useless; here I had
 been confounded by three simple questions. I made
-. up my mind to extricate’ myself from the mess,
-: and wanted to repudiate everything I had said.
+up my mind to extricate’ myself from the mess,
+and wanted to repudiate everything I had said.
 (But somehow I could not do so in the gaze of
 her intensely earnest and tragic eyes.) “That is
 to say... in fact, I cannot definitely say.
@@ -207,8 +160,8 @@ With that she did ‘not persist, and, taking
 advantage of her silence, I strode away with long
 steps and hastened back to Fourth Uncle’s home,
 feeling very depressed. I could not help thinking
-that perhaps my ¥eplies would have an evil effect
-on her. No doubt her4oneliness and distress had
+that perhaps my replies would have an evil effect
+on her. No doubt her loneliness and distress had
 become all the more unbearable at this time, when
 every one else seemed to be praying for
 benediction but perhaps there was something else
@@ -216,45 +169,32 @@ on her mind. Perhaps something that had recently
 happened to her. If so, then my answers might
 be responsible’... for what? I soon laughed
 about the whole thing, and at my absurd habit
-of exaggerating* the importance of casual happe-
+of exaggerating* the importance of casual happen-
 mings. Educators unquestionably would pronounce
 me mentally unbalanced. Hadn’t I, after all, made
 it clear that all I could say was, “Cannot definitely
 say?” Even should all my replies be refuted,’ even
 if something happened to the woman, it could in
-
-.
-
 ---
-
 ## Scan page 14
-
 mo way concern me.’
-
 “Cannot definitely say” is-a very convenient
 phrase. Bold and reckless' youths often venture
 so far as to offer a positive opinion on critical
-questions forapthers, but responsible people, like
-ofticials ahd doctors, have to choose their words
-
+questions for others, but responsible people, like
+officials and doctors, have to choose their words
 4 carefully, foy if events belie’ their opinion then
 it becomes‘a serious affair. It is much more
-
 4 advisable to say, “Cannot definitely say; obviously
 it solves everything. This encounter with the
-
 woman mendicant* impresses upon me the impor-
 tance of that practice, for even in ‘such cases the
 deepest wisdom lies’ in ambiguity.*
-
 Nevertheless, I continue to feel troubled, and
-when the night is gone I wake, up with the
+when the night is gone I wake up with the
 incident still on my mind. It is like an unlucky
-
  presentiment of a movement of fate. Outside *
-
 day is still gloomy, ‘with flurrying® snow, and i
-
 the dull study my uneasiness gradually increases
 Certainly I must go back to the city to-morrow.. .
 To be sure, there is still unsampled the celebrated
@@ -264,30 +204,20 @@ salver.’ Has the price by now increased? Although
 many of my boyhood friends have melted away
 like clouds in the sky, there must remain, at least,
 the incomparable fish-fins of Lo Ching, and these
-
 I must eat, even though I eat alone... . All the
-
-same, I amreturning to-morrow. . .
-
+same, I am returning to-morrow. . .
 Because I have so often seen things happen
-
-éxactly as I predicted’—but hoped against, and
-
+exactly as I predicted’—but hoped against, and
 tried to believe improbable—so I am not unprepared
-
-
-
 ---
-
 ## Scan page 16
-
 ' for this occasion to provide no exception. Towards
 evening some of the family gather in an. inner
 room, and from fragments of their talk I gather
-they are disaussing some event with no little
-annoyance. .Pressently all the voices cease except
+they are discussing some event with no little
+annoyance. . Presently all the voices cease except
 one, that of Fourth Uncle, who thunders out
-above: the thud’ of his owm pacing feet: ;
+above: the thud’ of his own pacing feet: ;
 “Not a day earlier nor a day later, but -just
 ' at this season she decides upon it. From this
 alone we can see that she belongs to a species ‘
@@ -295,8 +225,8 @@ utterly devoid of human sense!”
 My curiosity’ is soon followed by a vague
 discomfort, as if these words have some special
 meaning for me. I go out and look into the room,
-but every one has vanjshed. Suppressing my 4
-inereasing impatience, I wait. till the servant
+but every one has vanished. Suppressing my 4
+increasing impatience, I wait till the servant
 "comes to fill my teapot with hot water. Not until
 then am I able to confirm my suspicions.
 “Who was it Fourth Uncle was blowing up*
@@ -313,11 +243,8 @@ my emotion at all, doesn’t even lift his head, so
 that I control myself to the end of further
 “When did she die then?”
 1 ‘
-
 ---
-
 ## Scan page 18
-
 ‘i : _ “When? Last night—or possibly to-day. I
 tamnot definitely say.” ;
 am “What did she die of?”
@@ -351,14 +278,10 @@ the right phrases, and at length have to give it
 up. Fourth Uncle throughout the meal wears an
 austere look on his face. At last I suspect that he
 5 ae
-hie:
-
 ---
-
 ## Scan page 20
-
 regards me also as “belonging to a, species utterly
-4Mevoid of human sense,” since “neither a day
+devoid of human sense,” since “neither a day
 earlier, nor a day later, but just at this season”
 I have put in an appearance. To loosen his heart
 and save him further anxiety I tell him that I
@@ -379,7 +302,7 @@ Sitting alone under the yellow rays of the rape’-
 oil lamp, my mind goes back again to (that blown-
 ont flicker,)‘ Hsiang-lin Sao. This woman who
 once stood among us in this house, thrown now,
-like &4n old toy, discarded by a child, on to the
+like an old toy, discarded by a child, on to the
 dust-heap. For those who find the world amusing, ;
 for the kind for whom she is created, no doubt
 if they think about her at all it is. simply to
@@ -389,14 +312,9 @@ has obliged them by disappearing at last, swept
 away thoroughly by Wu Clang, and a very tidy*
 job. I don’t know whether there is such a thing
 as the ‘soul’ that lives on after death, but it
-
 : n
-
 ---
-
 ## Scan page 22
-
-\ :
 i “would be a great improvement if people like
 ha Hsiang-lin Sao were never born, would it not?
 : Then nobody would be troubled. neither the
@@ -407,10 +325,9 @@ i on musing, and gradually find some comfort in
 y It is like putting together an intricate puzzle,
 but in the end the incidents of her life fit together
 i into a single whole. A
-i
 Hsiang-lin Sao was nota native of Lo Ching.
 She arrived in early winter one year with Old
-: Woman Wei, who bargained in «the labour of
+: Woman Wei, who bargained in the labour of
 others. Fourth Uncle had decided to change the
 servant, and Hsiang-lin Sao was Old Woman *
 Wei’s candidate for the job. She wore a_ white
@@ -430,25 +347,19 @@ direct eyes. She impressed her as a woman who
 would be content with her lot, and not likely to
 complain about hard work; and so in spite of her
 : 21
-a
 
 ---
-
 ## Scan page 24
-
 husband’s wrinkled brow, Fourth Aunt agreed to
 give her a trial. For three days she worked as if
 kisure of any kind bored her; she proved very
 energetic and as strong as a man. Fourth Aunt
 4 then definitely hired her, the wage being five
-
-bkundred cash per month. ,
-
+hundred cash per month. ,
 4 Everybody called her simply Hsiang-lin Sao,
 without asking for her surname. The Old Woman
 Wei was, however, a native of Wei Chia Shan.
 f (Wei Family Mountain), and since she claimed
-
 that Hsiang-lin Sao came from that village no
 doubt her surname alsa was Wei. Like most
 mountainears, ‘she talked little, and only answered
@@ -461,9 +372,7 @@ fen years her junior, in the previous spring; and
 that he also had lived by cutting firewood. This
 ‘was about all people could. get out of her.
 Day followed day, and Hsiang-lin Sao’s work
-
 » was jusf as regular. She never slackened* up, she
-
 never complained about the food, she never seemed
 to tire.-People agreed that Old Lord Lo Shih had
 jound a worthy worker, quick and diligent, more
@@ -473,13 +382,9 @@ household. duties, besides preparing geese and
 chickens and all the sacrifices, without any other
 help. She seemed to thrive’ on it. Her skin became
 whiter, and she fattened a little. :
-
 : 23
-
 ---
-
 ## Scan page 26
-
 ‘ig :
 t New. Year had just passed when one day she
 ame hurrying up from the canal, where she had
@@ -488,7 +393,7 @@ said she had seen, on the opposite bank, a man
 vho looked very much like her late husband’s
 first cousin, and she was afraid he had come ‘to
 fike her away. Fourth Aunt was alarmed and
-sispicious. Why should he be coming for her?
+suspicious. Why should he be coming for her?
 "Asked for details, Hsiang-lin Sao could give none.
 Fourth Uncle, when he heard the story, wrinkled
 : his brow and announced:
@@ -513,12 +418,8 @@ gts it, how can we deny the justice of it?” said
 Fourth Uncle.
 Hsiang-lin Sao’s wage, therefore, was figured
 ait. It was discovered that altogether one thousand
-
-
 ---
-
 ## Scan page 28
-
 seven: hundred and fifty cash were due. She had
 let the sum accumulate with her master,. not tak-
 img out even a single cash for use. Witnout any
@@ -551,12 +452,8 @@ Tae awning’ Kid the occupants, and no one know
 who was in it. Presently Hsiang-lin Sao came to
 tke bank, and just as she was about to kneel
 down for water two men quickly jumped out,
-
-
 ---
-
 ## Scan page 30
-
 & her, and-forcibly put her inside the boat.
 They seemed*to be mountain people, but they
  cectainly took her against her will; she cried and
@@ -568,52 +465,30 @@ Nothing more happened until the arrival of two
  Hhiang-lin Sao, but those who peered in declared
 that she seemed to have been bound and thrown
 on the deck of the cabin,
-
-“@utrageous!” exclaimed Fourth Uncle. On
+“Outrageous!” exclaimed Fourth Uncle. On
 rdlection, however, he simply ended impotently’,
 “But after all...”
-
 Fourth Aunt herself had to prepare the food
 tat day, and her son Ah Niu made the fire.
-
 In the afternoon Old Woman Wei réappeared.
-
 “Outrageous!” Fourth Uncle greeted her.
-
 “What is this? How wonderfull You have
-
  _hmoured us once more with your presence!” Fourth
-
 Aunt, washing dishes, angrily shouted at the old
 bargain-maker, “You yourself recommend‘ her to
-
 us, then you come with companions to abduct* her
-
 from the household. This affair is a veritable
-
 _yolcanic eruption’, How do you suppose it will
-
 look to outsiders? Are you playing a joke at our |
-
 expense, (or what is it)?”
-
 “Ai-ya! Ai-ya! I have surely been fooled and
-
 tricked. I came here to explain to you. (Now
-
 is tww was I to know she was a rebel?) She came
-
 p te me, begged me to get her work, (and I took .
-
 ler for genuine’. Who would have known that
-
 ‘ - 29
-
 ---
-
 ## Scan page 32
-
-)
 she was doing it behind her mother-in-law’s back,
 (without in fact even asking for permission)?
 I’m unable .to look in’ your’ face, my lord and my
@@ -624,10 +499,8 @@ will not punish insignificant people-like myself too
 strictly, eh? And next time the person I recum-
 _. mend must be doubly good to make up for this
 sin——”
-
 “But——” interjected.Fourth Uncle; who,
 however, could get no farther.
-
 And so the affair of Hsiang-lin Sao came to
 an end, and indeed she herself would have been
 entirely forgotten were it not that» Fourth Aunt
@@ -644,26 +517,19 @@ By the time the next New\Year rolled round,
 however, she had given up hope of ever seqing
 her again.
 Towards the end of the holidays Old Woman
-
 Wei called one day to “k‘ou-t’ou” and offer
-felicitations.« She had already drunk herself into
+felicitations. She had already drunk herself into
 semi-intoxication,*? and was in a garrulous* mood.
 She explained that because of a- visit to her
 ; 31
-
 ---
-
 ## Scan page 34
-
 a >
 mother’s home in’ Wei Village, where she had
 stayed for several days, she was late this year in
 paying her courtesy calls. During the course of
-
 the conversation their talk naturally touched
-
 . upon Hsiang-lin Sao. :
-
 “She?” the old woman cried shrilly and with
 alcoholic enthusiasm. “There’s a lucky woman!
 You know, when her mother-in-law came after
@@ -672,17 +538,14 @@ promised to a certain Hu Laoliu of Hu Village.
 After staying in her home only a few days she
 was loaded again into the Flowery Sedan Chair
 and borne away!” j
-
-“4i-ya, What a. mother!” Fourth Aunt
+“Ai-ya, What a mother!” Fourth Aunt
 exclaimed.
-
 “Ai-ya, ty lady! You speak from behind a
 lofty door. We mountaineers, of ‘the small-doored
 families, for us. what does it matter? You see,
 she had a young brother-in-law, and he had to be
 married. If Hsiang-lin Sao was not married off
 first, where would the family get money enough
-
 for the brother-in-law’s presents to his betrothed?
 So you understand the mother-in-law is by no
 means a stupid woman, but keen and calculating’
@@ -693,17 +556,9 @@ only a,small betrothal gift, but, since few worhen :
 want to marry deep into the mountains, the price
 is higher. Hence the husband actually paid eighty
 thousand cash for Hsiang-lin Sao! Now the son
-
 of the family has also been married, and he gave
-
-
-
-i
-
 ---
-
 ## Scan page 36
-
 F PUTTS a) OM he Re ee oe te
 ‘ee 4
 his bride presents costing but five thousand cash.
@@ -738,15 +593,10 @@ cursed. and by the time she reached Hu Village
 her throat was so raw that she had almost lost :
 her voice. She ha‘ to be dragged out of the
 sedan chair. It took two men to get her into the
-
 ‘
-
 ---
-
 ## Scan page 38
-
 a . Pe” ££ _ a = F.”. =e i ae
-«
 
 ancestral hall, and still she would not k‘ou-t’ou.
 Only for one moment they carelessly loosened
@@ -775,38 +625,27 @@ both fat. Above their heads was fortunately no
 mother-in-law. Her husband, it seems, is strong
 and a good worker. He owns his own house.
 Ai-ya, she is a lucky one indeed.”
-
 From that time on Fourth Aunt (gave up any
 thought of Hsiang-lin Sao’s excellent work, or at
 any rate she) ceased to mention her name.
-
 In the autumn, two years after Ola Woman
 Wei had broyght news of MHsiang-lin Sao’s
 ee 37
-
 ---
-
 ## Scan page 40
-
 extraoramary good iuck, our old servant stood
-
 omce more in nergon before. the hall of Fourth
 Uncle’s hore. On the table she laid a round :
 chestnut'-shaped ‘basket and a small bedding-roll. ;
 She still wore a white scarf on her head,a black
-
 skirt, a blue jacket, and ‘tnoon-white’ vest. Her
 complexion was about the same, except that her
 cheeks had lost all their colour. Traces of tears
-
 lay at the corners of her eyes, from which all
-
 the old brightness and luster seemed washed away.
 Moreover, with her once more appeared Old:
 Woman Wei, wearing on her face an expression
-
 of commiseration® She babbled’ to Fourth Aunt:
-
 . “So it is truly said, Heaven holds many an i
 “unpredictable* wind and cloud,’ Her husband was
 a strong and healthy man. -Who would have
@@ -819,7 +658,6 @@ silkworms—and she is.skilled at each of these
 jobs—she could make a living. Could’ anyone have
 predicted that the child itself. would be carried
 off by a wolf? (A fact! By a wolf!) It was already
-
 late spring, long after the time when anyone fears
 a wolf. Who could have anticipated* this one’s
 boldness? (Ai-ya!) And now she is left only her
@@ -828,27 +666,19 @@ im-law took possession of the house, and everyth-
 ing in it, and he drove her out without a cash.
 She is, in fact, im the ‘no-road no-destination”
 ; 39
-
 ---
-
 ## Scan page 42
-
 predicament’, and can but return td beg you to
-
 take her in once more. She no longer has any
-connexions (such 4s a mother-in-law) whatever.
+connexions (such as a mother-in-law) whatever.
 Knowing you want to change servants, I brought
 her along. Since she already knows your ways:
-
 it’s certain she’ll be more satisfactory than a raw
 hand.” a
-
 “I was truly stupid, truly,” said Hsiang-lin
-
 Sao in a piteous voice, and lifting up’ her faded
-ey@ for 2 moment. “I only knew that when the
+eye for a moment. “I only knew that when the
 snow.lies on the mountains the wild animals will
-
 sometimes venture into the valleys and will even ‘
 come into the villages in search of food. I did
 not know that they could be so fierce long after
@@ -867,22 +697,15 @@ on the.ground’ He never wandered to play, but
 I hurried to each door to ask for him. Nobody
 had seen him. ‘I was terror-sticken! I begged
 people to help me hunt for him. ang morning
-
 and into the afternoon we moved and forth,
 locking into every corner. Finally we found one —
 of his little shoes hanging on a thorn bush. From
 
-4l ~
-
-
 ---
-
 ## Scan page 44
-
 “
 a 8 t
-:
-that moment every one said that he had been
+that moment every ohe said that he had been
 seized by a wolf, but I would not believe it. After
 a little while, going farther into the mountains,
 owe... found... him. Lying in a grassy lair’
@@ -914,12 +737,8 @@ the same. He had, as usual, wrinked is brow in
 disapproval* when she had first arrived, but since
 they had been having: endless difficylties with
 servants he had raised no serious objection to the
-
-
 ---
-
 ## Scan page 46
-
 re-employment of Hsiang-lin Sao. Now, however,. -
 he informed Fourth Aunt that, though the
  woman’s casz seemed indeed very lamentable, and
@@ -953,12 +772,8 @@ the only use they had for her that day was to
 sit in the kitchen and keep the fire burning.
 People in Lo Ching continued to call her
 45 : ;
-
 ---
-
 ## Scan page 48
-
-
  Hsiang-lin Sao, but there was a different tone in
 their voices., They still talked with her, but smiled
 in a cool way, and with faint contempt. She did
@@ -974,7 +789,7 @@ they could be so fierce” long after the coming of
 *_oring....” Retelling her story in the same
 words,. she would end up. sobbing and striking
 her breast. oe
-Every one who heard it was'moved, and@ even
+Every one who heard it was moved, and even
 the sneering men, listening, would loosen their
 ‘smiles and go off in depressed spirits. The women
 not only forgot all their contempt for her, but at
@@ -986,21 +801,14 @@ weeping at the end of the tragic narrative. She
 talked of nothing else, only this incident that had:
 become the central fact of her life, and she told
 it again and again. ;
-
 Before long, however, the entire population :
 of Lo Ching had heard her story” not once but
 several times, and the most. generous old women,
 even the Buddha-chanters, could not muster up a
 tear when she spoke of it. Nearly everybody in
-
 4 EF
-
-s
-
 ---
-
 ## Scan page 50
-
 — << *,
 the town could recite the story word for word,
 and it bored them excessively to hear it repeated.
@@ -1035,13 +843,9 @@ infant they would look at her mockingly.
 “Hsiang-lin Sao, if our ,Ah Mao were still
 here, wouldn’t he be just about that big?”
 4 49
-
 ---
-
 ## Scan page 52
-
 ,, PS PAID Taary het Bae _ |)
-
 Probably she had not suspected that her
 misery had long since ceased to afford any
 viearious' enjoyment for anyone, and that the
@@ -1050,7 +854,6 @@ former sympathizers, but the meaning of this kind
 of mockery pierced her armour of preoccupation
 at last, and she understood. She glanced at the
 jester, but did not utter a word of response.
-
 Lo Ching never loses its enthusiasm for the °
 ‘celebration of New Year. Promptly after the
 twentieth of the Twelfth -Moon the festivities
@@ -1063,50 +866,34 @@ Hsiang-lin Sao, whose hands were polluted, could
 only feed the fire and sit watching Lin Ma
 working over the sacred,vessels. Outside a fine,
 snow was matting the Wa
-
 “Ai-ya, I was truly stupid,” sighed Hsiang-lin
 Sao, staring despondently* at the sky.
-
 “Hsiang-lin Sao, you are back on the same
 trail?" Liu Ma interrupted, with some exaspera-
 tion. “Listen to me, is it true you got the scar
 by knocking your forehead against the altar in
 protest?”
-
 “Um-huh.” ; j
-
 “I ask you this: If you hated it that much,
 how was it that later on you actually submitted?”
-
 Gra : ;
-
 “Ah, you! It seems to me you must have been
-
 51 :
-
-
 ---
-
 ## Scan page 54
-
 ‘halfwilling, otherwise——”
-
 “Ha, ha! You don’t understand how great
 were his muscles.”
-
 “No, I don’t. I don’t believe that strength
 such as your own was not enough to resist him.
 It is clear to me that you must have heen ready
-
 for it yourself.” ; :
 .“*Akh—you! Ld like to’ see you try it yourself,
 and see how long you could struggle.”
-
 Liu Ma’s old face crinkled’ into a laugh, so
 that it looked like a polished walnut. Her dry
 eyes rested on Hsiang-lin Sao’s scar for a moment,
 and then sought out her eyes.
-
 She spoke again. “You are really not very
 clever. One more effort that time really to kill
 yourself would hz ve been better for you. As if
@@ -1119,51 +906,39 @@ be settled? Only one way: Yen Lu-t‘a*, the Emperor
 of “Hell, can do nothing else but saw you in ‘half
 and divide you equally bétween the two men. That,
 I think, is a fact?.” ;
-
 An expression of mingled fear and astonish-
 ment crept over Hsiang-lin .Sao’s face. This was
 something she had not considered before, had
 never even heard in her mountain village.
-
 “My advice is that you’d better make amends
 before it is too late. Go to the Tu-ti Temple and
 contribute money for a threshold. This threshold,
-
 , : 53
-
 ---
-
 ## Scan page 56
-
 stepped on by a thousand, stepped over by ten
 thousand, can suffer for you and perhaps atone”
 for the crime. Thus you may avoid suffering
 after death.”
-
 *Hsiang-lin Sao did not say a word, but felt
 intolerably crushed with pain, Next day dark
 shadows encircled her eyes. Right after breakfast
 she went off to the. Tu-ti Temple to beg the priest
-
 to let her buy a new threshold. He stubbornly*
 refused at first, and only when she released a.
 flood of tears would he consider it. Then,
 unwillingly, he admitted that it might be arranged
 for’ twelve thousand cash. A
-
 She had lorig since stopped talking with the
 villagers, who  shunned* her and the tiresome
 narrative of Ah Mao’s death, but news soon spread ¥
 that there was a development in her casé. Many
 people came now and inquisitively* referred to
 the scar on her forehead. ~
-
-«siang-lin Sao, I ask; you this: Why was it
+“Hsiang-lin Sao, I ask you this: Why was it
 that you submitted to the man?” :
-
 “Regrettable, regrettable,” sighed another,
 “that the knock was not deep enougb.*”
-
 She understood well enough the mockery and
 irony of their’ words, and she did not reply. She
 -simply continued to perform her duties in silence.
@@ -1173,32 +948,23 @@ it for twelve silver dollars, and asked permission
 to visit in the west end of the town. Before the
 next meal she returned, much altered. Her face
 no longer seemed troubled, her eyes held some.
-
 : RR
-
 ---
-
 ## Scan page 58
-
-Bie
 life in them for the first time in months, and
 she was in a cheerful mood. She told Fourth
 Aunt that she had bought a threshold for the
 temple. ‘ s
-
-Duting the Coming-of-Winter Festival she
+During the Coming-of-Winter Festival she
 worked tirelessly, - a on the day of making
 sacrifices she was simply bursting with energy.
 Fourth Aunt brought out the holy. utensils', and
 Ah Niu carried the altar to the centre of the
-room. Hesiang-lin Sao promptly went over to bring
+room. Hsiang-lin Sao promptly went over to bring
 out the wine cups and chopsticks.
-
 “Never mind,” Fourth Aunt cried out. “Don’t
 touch them.” _
-
 ‘She withdrew her hand-as if it had been
-
 burned, her face turned ashew’, and she did not
 move, but stood as if transfixed®. She remained
 standing there, in fact, until Fourth Uncle came
@@ -1215,34 +981,26 @@ blink for a moment in the glaring light of. day.
 In half a year her hair lost all its colour. Her
 memory became so clouded that she sometimes
 forgot.even to scour the rice.
-
 “What has got into her?. How has she become
 like that? It’s better not to have her around,”
-
 ‘ 57
-Ls
-
 ---
-
 ## Scan page 60
-
 Fourth Aunt began saying in her presence. ;
 But “become like that” she” had, and there
 did not seem to be Any possibility of improving
 her. They talked of sending her away, or of
 returning her to the management of Old Woman
 Wei. -Nothing came of it while I was still in Lo
-Ching, but the pldn was soon afterwards carried
+Ching, but the plan was soon afterwards carried
 out. Whether Old Woman Wei actually took t
 charge of her for a while after she left Fourth
 Uncle’s home or whether she at once became a .
 beggar I never learned.
-
 I am awakened by giant crackers, and see
 yellow -tongues of flame, and then immediately
 afterwards hear the sharp pipipapao of exploding
 gunpowder. It is near the Fifth Hour, and time
-
 ’ for the prayers and blessings. Still only drowsily
 aware of the world, I-hear far away the steady
 explosive hotes, one after another, and then more
@@ -1259,26 +1017,14 @@ to receive benediction.‘ What a satisfaction it is
 to understand that the Holy Spirits of Heaven
 and Earth, having bountifully* inhaled their fill
 of the offertory meat and wine and incense, now
-
-
-
 ---
-
 ## Scan page 62
-
-,
  limp' about drunkenly in the wide air. In such F
-a@ mood they are certain to dispense’ boundless
+a mood they are certain to dispense’ boundless
 prosperity on the good people of Lo Ching! : i
-: (Fr. Forum)
-.
-
 ---
-
 ## Scan page 64
-
 A Happy Family
-
 “... One must write only when one feels
 like it. It must be like the light of the sun which
 ¢omes from an infinite source of light, net like
@@ -1301,26 +1047,18 @@ men and women to-day who are discussing these 3
 problems. Therefore, he decided to write about
 the family. But how? ... otherwise they will
 not take it. There is no sense in going against
-
 the current of the times, though .. .
-
 He strode over to his desk, sat down, took ;
 out a sheet of paper ruled with green lines, and
 wrote down without hesitation, though not without
 a sense that he was compromising’ his art, this
 title: “A Happy Family.”
 
-2s
 ‘
-[
 less i Bee
-
 ---
-
 ## Scan page 66
-
 aha tha a ig a Fi 5) ae
-re
 Then he paused and stared at the rafters
 while he tried to figure out where He should set
 down his happy family. “Should I make it Peking?”
@@ -1355,17 +1093,13 @@ the rent is too high. How- about Harbin, Kirin
 and Heilungkiang? It is said that the provinces
 ‘ 65 ee wat
 é é
-
 ---
-
 ## Scan page 68
-
 are over-run with bandits ...” And thus after
 considering all the possible places that he could
 think of and dismissing them as unsuitable, he
 decided that A. will have to do as the name of
 the locale of his “happy family.”
-
 “Well, there is no helping it. The happy
 family will have to be at A. Naturally there will
 be husband and wife, the master and mistress of
@@ -1385,27 +1119,17 @@ snow; the mistress’ hair should always be curled
 and fluffy in front like-asparrow’s nest, her
 white teeth always exposed, though she should
 continue to wear her Chinese dresses . . .”
-
 “No, that won’t do! Twenty-five catties!”
-
 It was a man’s voice, outside the wiz:cdow.
 He turned around to look but the screen was i
 down and the sun beating upon it so strong that
 it made him dizzy. Then he heard the sound of
-
 pieces of wood scattering on the ground. “Well,
-
 it doesn’t matter,” he said to bimself and returned
-
 to his thoughts. “But twenty-five catties of what?
-
-
 ---
-
 ## Scan page 70
-
 ”
-%
 ‘
 But of course they are both clever and high- ;
 minded and loved literature and the arts. But ;
@@ -1431,9 +1155,9 @@ cloth. The cook brings up the dishes—Chinese ;
 dishes. What ‘twenty-five catties; I wonder?, It :
 doesn’t matter. Why Chinese dishes? Because the
 Westerners all say that Chinese cooking is the
-best and most wholesome;' that isthe reason why ;
+best and most wholesome;' that is the reason why ;
 they have clung to Chinese dishes. The first dish
--was, well, what sheuld the first dish be?” «  _
+was, well, what should the first dish be?”
 “. “Firewood . . .” 2
 He looked back, startled, and there stood to
 his left the mistress of his own house, her sad,
@@ -1441,32 +1165,23 @@ weary eyes fixed on him. :
 “What?” he said impatiently to his wife for i
 69 .
 ig F ‘
-
 ---
-
 ## Scan page 72
-
 r ry Sa. ele ae fee. td ee | ee a i eee i ee CC
 disturbing him in his creative labours,
-
 “The firewood has all gone, and I’ve to get
 some to-day. It cost only two tiao and four the
 last time and yet he wants two and six. What
 do you think of offering him two and five?”
-
 “All right, give him two and five.”
-
 “But we come off' too badly on the weight.
 He insists on it’s being twenty-four and half
 catties I think I'll allow him only twenty-three
 and half. What do you think?” {
-
 “All right, all right, call it’ twenty-three and
 half.”
-
 ‘Then it’s five times five equals twenty-five,
 three times five equals fifteen .. .”
-
 “Yes, five times five equals twenty-five, three
 times five equals fifteen .. .” He, ‘too, got stuck,
 and turning back to his-desk he seized his brush
@@ -1474,12 +1189,9 @@ and began to figure it out on the paper on which
 he had written°“A Happy Family.” It took him
 some time to get the correct answer,whereupon he
 looked up and said,
-
 “Five and eight!” j
-
 “In that case I don’t have enough here, I
 still need eight or nine coppers . .” 5
-
 He pulled open his drawer, seized a handful
 of coppers, around twenty or thirty, put them in
 her open hand and watched her go out of the
@@ -1487,14 +1199,9 @@ room. Then he turned once again to his desk. He
 had a stuffed up feeling in his head as if it was
 filled up with firewood and Arabic numerals. He
 inhaled deeply and then exhaled as if trying thus ~
-
 to rid himself of the firewood anid numerals.
-
-
 ---
-
 ## Scan page 74
-
 Indeed this made his heart, feel lighter and again
 he turned his thoughts to his happy family. j
 by “What dishes should the cook bring? Such
@@ -1521,25 +1228,20 @@ of the table and the happy couple took up their,
 chopsticks and smiling happily and looking at each
 other said pointing to the dish: ;
 “My dear, please.’
-«Please, you first, my dear.’
+“Please, you first, my dear.’
 “<Oh, no, please you!’
 “Thereupon they simultaneously dipped their
 chopsticks and picked up a hunk‘ of snake meat—
 no, no, snake meat is, after all, a bit too
-outlandigh.’ It is better to make it eel. That
+outlandish.’ It is better to make it eel. That
 d 73 3
-
 ---
-
 ## Scan page 76
-
-Pa
 means, then. this particular ‘war of dragons and “3
 tigers’ is made of frog and eel. So simultaneously
 they picked out a piece of eel of the same size— '
 five times five equals twenty-five, three times ;
 five .. and put it in their mouths . . .” Hehad }
-
 a desire to look back that he found difficult to
 resist, for there was a bustle behind him and
 some one had come in and out several times. A
@@ -1550,12 +1252,10 @@ such a family? Oh, how confused are my thoughts. :
 If I go on like this I ‘shall not be avle to finish i
 this in spite of the excellent-theme that I have.— j
 Perhaps I don’t» have to make them returned |
-
 students; it is sufficient to make them graduates
 of some institution of higher learning within the ae
 country. So they -are both college graduates, :
 high-minded and clever, high-minded. . : The hero :
-
 is a literary man; the heroine a literary woman,
 or a lover of literature. Or perhaps the heroine :
 a poetess and the hero a lover-of poetry and a ;
@@ -1566,17 +1266,12 @@ a new pile of cabbages by the book case behind a
 his back, arranged in the form a big A, three on P
 the bottom row, two in the middle and one on
 top. :
-
 He sighed with surprise and felt flushed in
-
 the face and a tinkling sensation along his spine.
 He took a deep breath in an effort to stop the (
-U3 :
 
 ---
-
 ## Scan page 78
-
 ERS fe oT ee is a Sgt) Oe es SP ea i Sr ee eer oe sw
 tinkling sensation and continued: ‘The house of
 the happy family must have plenty of rooms.
@@ -1594,7 +1289,6 @@ will not be cluttered? up with things...” He
 took a glance under his own bed and fourfi all
 the firewood gone, leaving only a grass rope lying
 there like a dead snake.
-
 “Twenty-three and a half catties ...” Real-
 izirfg that the firewood would soon be brought in
 and dumped' under the bed and again feeling a
@@ -1607,53 +1301,31 @@ pleased with this compromise measure, for there
 was in this measure, he thought, neither the
 eccentricity of the hermit nor the lack of security /
 in.a policy of the open door. -
-
-«|. The door of the master’s’ study must
+“The door of the master’s’ study must
 always be closed,” he thought after he had gone ;
 back to his desk. “If she has anything to talk
 over with him, she must knock first and wait for
-
-ear
-
-
-
-.
-
 ---
-
 ## Scan page 80
-
 his permission to come in. This is the right way
-
 to do things. Now supposing the master is sitting
-
 in his stydy and the mistress wants to talkabout . —
 literature with hint? She will knock first’—-You 3
-
 may be sure that she will-not be bringing in a
 pile of cabbage.
-
 “Come in, please,.my dear.’
-
 . “But what if the master has no time to talk
-
 about literature? Could he ignore her and let.
-
 go on knocking at the door? That probably would
-
 not do. Perhaps ‘An Ideal Husband’ has all these
 things in it—That must be a really fine book. I ~
-
 must get a copy and read it when I get some
 money for my manuscripts. . .”
-
 Whack!
-
 He straightened up at this,for he knew from
 past experience that this whack! resulted from the
 cont..." of the mistress’ palm and the head of
 their chree-year old daughter.
-
 “In the happy family...” he continued to
 think in spite of the fact that the daughter was
 now weeping, “children come late, come late. »
@@ -1667,30 +1339,20 @@ the curtain, “but Marx wrote his ‘Capital’ amidst
 the cries and bawls' of his children. That’s why ~
 he was such a great man...” He walked into
 the outer room and opened the storm door.’ He
-
-
-
 ---
-
 ## Scan page 82
-
 smelled an odor of kerosene smoke as he did: so
-
 The child was lying to the right of the door with
 her face to the ground. She burst into crying
-
 when she saw him.
-
 " “Now, now, don’t cry, my good child,” he said
 and picked her up.
-
 As he turned around he saw his wife standing
 angrily to the left of the door, her hands on her
-waist as she were about to begin some callisthenics .
+waist as if she were about to begin some callisthenics.
 “So even you try to impose on me! Instead
 of trying to help me, you are always trying to
 give me trouble—now you’ve upset the lamp-
-
 What are we going to use tonight?”
 “Now, don’t cry, don’t cry, my good little
 girl,” he said as he carried her into his room and
@@ -1704,26 +1366,15 @@ and then started'to,move his hand in circles in
 front of his face.
 The child burst out laughing and saying, “Oh,
 hua-erhl” — :
-
 “Yes, yes, hua-erh,” he agreed as he drew
-
 one more circle before hig face. After he stopped:
-
 the child continued to smile at him and looking at
-
 him through her tear wetted eyes. He suddenly
-
 realized how like her mother’s was her lovable
-
 and innocent face, that is, her mother as he knew
-
 her five years back, especially her red lips, only
-
-
 ---
-
 ## Scan page 84
-
 they were smaller. On a certain bright winter
 afternoon she had looked at him with a smiling
 face and tear-wetted eyes exactly like this when
@@ -1756,66 +1407,39 @@ watched her as she went out lonely and desolated.
 In his ears he could still hear the sound of falling
 wood. He tried to compose’ himself. He turned
 back toward his desk, closed his eyes, suppresses
-a3
-|
-:
 
 ---
-
 ## Scan page 86
-
 y :
-
-: }
-
 his motley’ arrays of thoughts and sat quietly.
-
 He saw before his eyes a round, flat dark flower. :
-
 with a yellow centre which floated from the left
-
 corner of his eyes across to the right until it
-
 -vanished. This was followed by a bright green
-
 flower with a dark green centre, which in turn was
-
 followed by six cabhages staring at him in the
-
 form of az A. s
-
-(Fr. China’s Journal)
 yy
-
 po j
-
 % r
-
 : ay
-
 ---
-
 ## Scan page 88
-
-A Cake of Soap -
-
+A Cake of Soap
 Standing in the evening sunlight, with her
 back toward the northern windows, Mrs. Ssu
 Ming and ker eight-year-old daughter, Hsiu Erh,
-
 ‘were, busy folding “Paper sycees'.” Suddenly she
 heard ‘the heavy but slow footsteps made by the 3
 Chinese cloth-shoes, and-kmew that Ssu Ming was
 coming. She did not turn about, but still was
 busy over her work, The sound was becoming
-
 “louder and nearer: feeling finally the heavy foot- ;
 step had stopped by her side, She cast a glance
 <behind, and saw that before her, with both his
 back and shoulders hunched, Ssu Ming was just
 making his greatest effort digging with his hand
 for something in his pocket. f
-
 After struggling for a while, his hand was
 finally relieved; in which was held something in
 the shape of a smallyrectangle wrapped in green
@@ -1827,20 +1451,13 @@ an attractive golden seal and many fine designs.
 Hsiu Erh jumped up at once and demanded to
 have a look, but her mother quickly pushed her;
 aside.
-
 “You've been shopping? . . .™” she asked,
-
 looking at the designs.
-
 N—o, yes...” replied he, looking at her
-
 : * 87
 ¢
-
 ---
-
 ## Scan page 90
-
 e
 hand. ;
 And then the green packet was unpacked. In
@@ -1851,14 +1468,11 @@ also of green color—the thin paper was originally
 of brown color—and had fine designs on it too.
 The indescribable fragrance which was somewhat
 ‘ like that of olive was becoming thicker and thicker.
-
 “Ah, ah, a good soap, indeed!” she said, at ;
 the same time taking that green little thing with
 a gesture not unlike that of carrying a child, and
 putting it under her nose, smelling.
-
 “Yes. Henceforth you can use it for... .” |
-
 Noticing that his eyes were~riveted’ on her
 neck while saying these words, she felt a blush
 was overspreading her cheeks, .Sometimes in the
@@ -1874,17 +1488,11 @@ blushing. The blush gradually spread all over
 her face, and very quickly to behind the ears.
 She then made up her mind to use this soap to
 clean up her neck right after dinner.
-
 “Some places, indeed,” she said to herself,
 “can’t be cleaned by only using the old-fashioned
 soaps.”
-
-
-
 ---
-
 ## Scan page 92
-
 geal ae ae ee bile s ali dead pcre aly. AWK crphed” OL ay ean 1 Cavs by Sale eee iam aie AOR |
 ___ “Mother, give me that.” Hsiu Erh stretched
 out her hands and attempted to take the green
@@ -1896,51 +1504,37 @@ the green wrapper as well, she moved her body
 a little; put thé soap on the upper Shelf of the
 wash-stand; looked at it for a moment; and then
 turned back to resume her work.'
-
 Ssu Ming sat in a high-backed chair opposite ;
 her; but all of a sudden. recalling something in
 his mind, he cried out, drawing his voice: “Hsuch-
 ch’eng!”
-
 “Hsueh-ch’eng!” She too heiped him cailing-
-
 She stopped’ doing her work and listened: there
 ‘was no reply. Noticing his impatience in waiting.
 with his head lifted up, she was rather sorry for
 him. “Ch’uen Erh,” she shrieked with her highest
 note.
-
 It was indeed very effective; immediately there
 could be heard the heavy-footsteps of leather shoes
 coming: and before long, Ch’uen Erh came stand-
 ing before her, stil in his shirt sleeves! his fat,
 round face all wet with-shining perspiration.
-
 “What have you been doing all this time?’
 she chided.* “‘Didn’t you hear Father calling you?”
-
 “I was practising Pa Kua Ch’uan.” Then he
 at once. turned to Ssu Ming, stood very. straight,
 and looked at his father with the expression of
 wondering why he was called.
-
 “Hsueli-ch’eng, | want to know what’s the
-
 91 :
-
 ---
-
 ## Scan page 94
-
 Re Pe Ary he ae eer oT Fee Mee kee ee pS eae pe aye ee hae Oa
 meaning of ‘Oldofoo’?”
-
 “‘Oldfoo’? . . . doesn’t it mean... a fierce
 woman’?””
-
 “Nonsense, nonsense,” Ssu Ming suddenly was
 furious with anger. “Am I a woman?”
-
 Hsueh-ch’eng was very much terrified, He
 unconsciously stood back two or three steps,
 standing more still and straight. Although so far
@@ -1948,14 +1542,11 @@ as his father’s manner of walking was concerned,
 he used to treat it as that of a stage actor,
 never.once had he taken him for a woman. He-
 knew his answer was all wrong.
-
-“«Oldofoo’ means ‘a fierce woman.’ So you’re ;
+“‘Oldfoo’ means ‘a fierce woman.’ So you’re;
 telling me, eh?»... I tell you, it’s not Chiriese,
 it’s a foreign word. What does it mean, now?”
-
 “IJ_er—I don’t know.” Hsuh-ch’eng became
 more and more embarrassed.
-
 “Hm. What a fool I am>to spend so much
 money on your education! Your school used: to
 boast of ‘emphasizing: both speaking and hearing;”
@@ -1966,18 +1557,13 @@ fourteen or fifteen years of age, but he can already
 say something quite well. You don’t know its
 meaning. ‘I don’t know’. Shame on you. . . . Well,
 go and look it up for me.”
-
 “Yees,” answered the son in a very low
 voice, and he reverently went out.
-
 “Capital nonsense,” efter a few minutes’
 pause, Ssu Ming suddenly ejaculated’ these words,
 very excitedly. “Capital monsense.. . these
-
 ---
-
 ## Scan page 96
-
 a PA I ere Oe ae OE de ee VA On Dibees take Da ed 5 or an 5 Sf FF Bree tes
 students of today. In fact, I was, as early as the
 Kuang Hsu dynasty, among the first to advocate’
@@ -2013,11 +1599,8 @@ it. The sayings of the elders are always right,
 anyway. ‘See, it’s already a perfect scandal to | ~
 95 Z
 j a
-
 ---
-
 ## Scan page 98
-
 ipa teat a et ee 2 2 Se eee ae a ee ee... te ao . fe - he
 have groups and groups of women walking in the !
 street. Well, they now even bob' their hair, I ;
@@ -2036,13 +1619,11 @@ the room, carrying with hima little but very
 thick, gilded book. He handed it over to his
 father, pointing one line to him, and said: __
 “This is somewhat like that; this. . ..”
-
 *. Ssu Ming took the little: book, knowing it was
 a.dictionary; but the print was rather small, and,
 furthermore, the sentence. was read from left to
 right. He frowned, carried the book to the window,
 fixed his eyes to it, and read the lines mentioned.
-
 “One of a secret fraternity’, established’ in
 the eighteenth century for mutual aid and social
 enjoyment’—N—, n,—no, no,—” he pointed to the 3
@@ -2054,12 +1635,8 @@ told you this is a rotten word, a word used to
 abuse a person, a person such as, er,-me, under- i
 stand? Look it up!”
 a :
-,
-
 ---
-
 ## Scan page 100
-
 a ,
 Hsueh-ch’eng stupidly looked at him, but did
 ‘not move.
@@ -2093,20 +1670,14 @@ did? He won’t let me do it, and said lots of
 nonsense, and those rascals joined him in making
 fun of me. That word was said by the youngest
 one, with his eyes on me. And after that they
-
-
-
 ---
-
 ## Scan page 102
-
 a Tee ey eT Oe eee ae NOT aes eB ae a ee YT ee
 all laughed, so it must be a rotten word.” He ;
 then turned to his son, saying, “Look it up in
 the ‘Section of Bad Words.’”
 Hsueh-ch’eng replied a low and timid “Yes,”
 and reverently went out, F
-
 “They’re ali crying for a ‘new civilization’,
 ‘new standard.’ Well, isn’t there enough of it for
 them?” he continued, looking at the ceilng. “The
@@ -2115,10 +1686,8 @@ sense and our society hasn’t any either. If nothing
 is done to remedy the situation, it wouldn’t be a
 surprise to me to find China fall to the ground. . .
 See, such a society, so cold, so...”
-
 “What is it?” she asked casually, not being
 in the least surprised.
-
 “K filial girl, I mean.” He fastened his“eyes
 on her, and explained in a very serious manner.
 “Qver on the main street, there were two female
@@ -2134,17 +1703,10 @@ got, she’d give to her grandmother; she herself
 would rather starve. Well,” he asked, seemingly
 to demand her opinion, “was there and one generous
 enough to give her anything?”
-
 She did not speak,only gazed at him, waiting
-
 to hear his conclusion.
-101,
-f
-
 ---
-
 ## Scan page 104
-
 iii ee er aes eg Ber te Cr (hh ae. , ee ae / Pe ae “TS, er ers
 “Hm, no,” he had to answer himself. ‘As I
 was looking for a quite long time, I noticed that
@@ -2153,7 +1715,7 @@ around them. all having fun with them. I heard
 one rascal saying vulgarly to his friend, ‘Ah Fah,
 don’t take her to be no good—only if you’d buy
 her a couple of cakes of soap and give her.
-@ good scrub’: all over, you'll find her good, ha!”
+“A good scrub—all over, you’ll find her good, ha!”
 You see, what nonsense!” _
 “Hm,” she inclined her head, and after a
 while, more idly asked, “Did you’ give her
@@ -2178,15 +1740,8 @@ the one and only pot of evergreens in the yard
 faded away in the darkness. The stars were
 twinkling among the cottonlike clouds, and the
 might began. Under such circumstances, Ssu Ming
-
-\
-
 ---
-
 ## Scan page 106
-
-.
-
 became very much excited. It'seemed he would
 do something great, very great, in the near
 future—he would fight those students and. the
@@ -2195,13 +1750,12 @@ and hotter, his strides becoming greater; and the
 sound by his cloth-shoes more distinct and noisy.
 The hens in the pen’ were ali awakened from
 sleep and began to cackle.’
-
 The light in the drawing room was the signal
 to summon all to dinner. All members of the f
 family were gathered around the square table,
 the lamp being put before Ssu Ming whe, with a
 fat and round face like his son’s, only with a
-seanty beard in addition, sat ‘majestically on the
+scanty beard in addition, sat ‘majestically on the
 other side of thé table. Amidst-the steam from
 the soup and other dishes, he was quite like that
 God of wealth ih the temple. On_his left was
@@ -2209,10 +1763,8 @@ Mrs. Ssu, together with Chao Erh, his-youngest
 daughter; on the right sat Hsuench’eng and Hsu.
 Erh. All were busy eating. The sound made by
 the chopsticks was rather noisy. Although they
-
 . did not say anything: the dinner was quite a
 merry affair.
-
 Chao Erh had tipped over her bowl, the soup
 spreading over almost half of the table. Ssu Ming
 did his utmost to.fix his small eyes upon her, and
@@ -2222,16 +1774,9 @@ heart of the cabbage he had long had his eye on,*
 but it had disappeared. He looked around and
 discovered. that Hsueh-ch’eng was just on the
 point to stuff that very ‘heart? into his wideopened
-
-
-.
-
 ---
-
 ## Scan page 108
-
 Ree erin mN ee Tere a edere ye eae SC aetr ha eam
-
 mouth, He had, rather gloomily, to take something
 ~ less delicious from the same dish.
 “Hsueh-ch’eng,” looking at his face, he said,
@@ -2243,7 +1788,7 @@ She was a beggar, but still devoted herself to her :
 grandmother. She’d rather remain starved. How
 should you students know all about it? No hope,
 ~ you would-be rascal!” :
-“T’ye already had onein my mind, but I don’t
+“I’ve already had one in my mind, but I don’t
 think -it’s right, 2 > >
 “Aw, aw, yes, that’s it. ‘Oldofool,”. The sare
 thing the boy saidof me. Well, what does it mean?
@@ -2256,7 +1801,7 @@ all rotters?" Suddenly: Mrs. Ssu-said.
 Why are you so bad tempered. today, yelling this
 _and that even at the table? How should the boys
 know all about it?” j
-“What?” Ssu Ming was just on the poiat of
+“What?” Ssu Ming was just on the point of
 saying something when, turning around and
 noticing that his wife’s cheeks were bulging and ~
 no longer sunken and the expression of her
@@ -2265,128 +1810,88 @@ hurriedly changed ‘his tone, “I haven’t lost my
 temper. I’m only teaching him tp know things, j
 that’s all.” Ki
 : 107
-s
-
 ---
-
 ## Scan page 110
-
 j “How should they boy know your thoughts?”
 She became < -srier. “If he had been more experie-
 need, he’d’ have gone through fire and water a long
 time ago and hat} that filial girl brought for you.
-You’ve already bought her one cak. of soap. If
+You’ve already bought her one cake of soap. If
 you only buy another cake... .”
-
 “But those were that rasea!’s words.”
-
 “No, I don’t believe it. If you'd only buy
 another cake of soap and give her a good scrub’
-
 all over, everything will be all right.”
-
 “What? What has that to do with it? I only
 remembered that you hadn’t any soap. ...”
-
 “Why not? You bought it specially for that.
 filial girl. Give her a good scrub, then. I won't
 share the honor with her?’ ~
-
 “What are you talking about? You women
 ...” muttered Ssu- Ming, his face wet with
 perspiration, just like his son’s after practising
 his boxing. Perhaps it was because he had taken
 a hot meal.
-
 “Well, we women, what about us? We women
 are far better than men. You men either bark at
 those eighteen or nineteen-year-old . girl-students,
 or wink at those female beggars of the same age.
 None. of you have any decent thoughts. A good
 scrub, for shame!”
-
 “But haven’t I told you it was the rascal... .7
-
 “Oong!” All of a sudden some one called. out
 loudly outside in the dark.
-
 Ssu Ming knew it was Mr. Ho Tao-t’ung,
 who was noted for his loud voice.
-
 Is it Tao Oong? I’m coming,” he gladly
-
-ma
-h
-
 ---
-
 ## Scan page 112
-
 replied, very much relieved. “Hsueh-ch’eng,” he
 gaid to his son, “take a lamp and bring Uncle Ho
 to my study.” ,
-
 Heure-ch’eng lighted a candle and led Tao-t’ung
 to the west wing of the house, following by Mr.
 Pu Wei-yuen. ah : ,
-
 Ssu Ming entered, stjll crunching his rice,
 and held out his hands to greet them. “Beg your
-
 pardon,” he said. “How about having dinner
 here? . . .” . :
-
-' “Thanks, we haye had it already.” Wei-yuen
+' “Thanks, we have had it already.” Wei-yuen
 came toward him. “We have come here to discuss
 the titles for the eighteenth essay contest for our
 ¥i-Fung Literary Society, Tomorrow is another
 ‘seventh’, isn’t it?” :
-
 “Why, today is’ the sixteenth?” Ssu Ming
 muttered. He was beginning to see light.
-
 “You see,” Tao-t’ung cried out, “you are so
 muddled up!” ; =
-
 “Well, we've got to hurry up to send the
 titles to the press, and have them printed in
 tomorrow’s paper.”
-
 “T've already drafted the titles,’ said Tao-
-t’ung, taking out a slip of pap@r from his hand-
-
+t’ung, taking out a slip of paper from his hand-
 kerchief, and handed it to him. “What do you
 think? Can we use them?”
-
 Ssu Ming walked towards the light, unfolded
 the paper, and read it word by word?
-
 “<A Proposed Petition to His Excellency the
 President for An Order to the Peoplé te Emphasize
 the Chinese Classics and to Worship the Mother -
 of Mencius ‘in Order to Uplift'the Present Deg-
-
-il
-
 ---
-
 ## Scan page 114
-
 enerating Society and Preserve the Literature of
 our Own’—An excellent title, an excellent title.
 But are there not too many words?”
-
 “Never mind,” Tao-t’ung loudly insisted. “I’ve
 counted them up. We needn’t pay anything extra
 for advertising. But how about the title for the
 poem?” : :
-
 “Title for the poem?” Ssu Ming said seriously,
 at once becoming very respectful, “I have one
 here: ‘On A Filial Girl.’ It’s a fact; we ought
 to showe her off. I was in the street this
 afternoon, . . .”
-
 “Aw, aw, that won’t do,” interrupted Wei-
 yuen, hastily shaking his hands, “I’ve seen that
 top.” He continued,.““She was most likely a stranger.
@@ -2395,40 +1900,29 @@ where she came from. The crowd said that she
 was a filial girl, but I asked -her whether she
 could write poems or somethtng of that sort, she
 only shook her head. If only she could, ha!”
-
 “But her character, her filial character, is
 really of paramount’ significance. It’s quite of ;
-
 ~ minor importance whether she could write poems
-OFL ecw
 ’ “No, no, I don’t thiuk so,” Wei-yuen strongly
 insisted. He ran toward Ssu Ming with his hands
 held out, nudging’ him vigorously. “If only she
 could write poems,” he said, “the whole matter
-«would be different.” :
-
+“would be different.” :
 “We will use the subject, anyway,” said Ssu
 Ming, pushing him aside, “and add some notes to"
 it, and have them sent to the press. Showing her
-
 . 13
-
 ---
-
 ## Scan page 116
-
-
 off is our first purpose. Secondly, we will use it
 as a means to satirising the present society. Hem,
 what a society we have! I stood observing for
 quite a long time, and saw no one give her
 anything. Isn’t this a cold and indifferent. . . .”
-
 “Ah, Ssu Ming,” onte again Wei-yuen rushed
 to him, crying out, “so you’re ridiculing me, are
 you? I didn’t give her anything, hadn’t anything
 in my pocket, really.”
-
 “Never mind that, Wei Oong,” once again
 Ssu_ Ming pushed him aside. “Yours was an
 exception, of course. Just listen to what I say:
@@ -2438,43 +1932,30 @@ fun of them. There were two scoundrels standing
 by. ‘Ah-Fah,’ I heard one of them say to the other, -
 “go and buy a couple of cakes of soap and give
 her a good scrub all overg and she'll be quite
-
 ' good.’ You see, such... . .” ‘
-
 “Ha, ha! ha! Two cakes of soap!” Tao-t’ung
 suddenly broke out laughing loudly. .Everyone’s
 ears were hard hit by his thundering voice. “Go
 and buy .. .” he continued, “ha, ha, .. .”
-
 “Tao Oong; Tao Oong!” interrupted Ssu Ming
 in a hurry, being very much startled.- Don’t cry
 out, don’t!” . %
-
 “A good scrub,—ha,—” .
-
 “Tao Oong!” Ssu Ming pulled a long face.
 “We're talking about important matters, ‘while
 you, you’re making a great deal of noise. Listen,
 we use these two titles. You two send them to
 the press, sorry to trouble you, and have them
 
-i15
-
 ---
-
 ## Scan page 118
-
 Met OT gem. Fo tl ie” SL, Lee Lee eS Le Tt melee i wae
 printed in tomorrow’s paper.”
-
 “Yes, yes, that’s all right, of course, of course.”
 Wei-yuen assented’ repeatedly.
-
 “A—scrub all over—a good—hi, hi,—” 4
-
 “Tao Oong!!!” angrily cried out Ssu Ming at
 ‘the top of his voice.
-
 After that Tao-t’ung stopped laughing. They
 -wrote some notes to explain the titles; and after
 copying them on a piece of paper, Wei-yuen,
@@ -2488,7 +1969,6 @@ cake of soap, lying on the square table in the
 center of the room, still wrapped in the green
 wrapper, with a golden seal shining brilliantly
 under the light, and many fine designs on it.
-
 His two daughters crawled on the ground,
 playing. Hsueh-ch’eng sat on the right side of
 the table, busy looking for something in the
@@ -2498,44 +1978,28 @@ on that highbacked chair. By the feeble light of
 the lamp, he could see that her face was express-
 ionless—neither pleasant, nor angry, and her eyes
 were completely vacant.
-
 “A good scrub, shame on you, shame on you!”
-
-L Ssu Ming heard Hsiu Erh ig these in a very
+Ssu Ming heard Hsiu Erh singing these in a very
 low voice behind. But when he turned round, he
 could see nothing, only Chao Erh was still scrat-
-
-
-
 ---
-
 ## Scan page 120
-
 Feeling uneasy and embarrassed, he exting-
 uished the candle and walked into the yard. He
 strolled back and forth, but for some reason or
-
 other, the chickens began to cackle. He had to
-
 keep them at a distance, and walk very carefully.
-
 Long’ afterwards, the hght in the drawing room
-
 was carried away to the bed room. He then saw
-
 the silvery moonlight covering the ground like a
-
 ‘sheet of threadless white screen; the full mcon
 hung between the clouds like a jade paste.’
-
 He was quite sad, and very much deprssed.
 He found himself in a position not unlike that of
 ‘the filial girl, lonesome, humiliated,* and forsaken-
 He went to bed very late that night. ;
-
 But the,next morning, the soap was used.
 Not quite as usual, that morning he got up very
-
 late. He saw his wife bending her body over the
 washstand, washing her neck, .the bubbles of the
 suds*® being like that on the mouth of a crab,
@@ -2547,19 +2011,13 @@ kind of fragrance somewhat like that of olive;
 and it was not after a lapse of nearly ‘half a
 year that’ the flavor suddenly changed. Those who
 hhad smelt it all said it was like that of sandalwood.
-(Fr. The China Press)
-
-
-
 ---
-
 ## Scan page 122
-
 Warning to the People
 " It was quiet on a certain street in the western
 rt of the nation’s Exemplary' City. Although
 the fiery sun was not yet directly overhead, the
-stteet sands were already glinting’ with light and
+street sands were already glinting’ with light and
 the\ fierce heat everywhere proclaimed’ the power
 -and\ tyranny of summer. The dogs lolled* out
 theit tongues and even the crows in the trees
@@ -2585,16 +2043,11 @@ table by his side there was a pile of twenty or.
 thirty stuffed rills with not the least suggestion
 of being hot.
 191 :
-
 ---
-
 ## Scan page 124
-
 “Ho-aa ..! Mantou batze-aa.... hot...”
-
 Then like a rubber ball that hadbeen thrown
 against the wall and had bounced back, he suddenly
-
 flew across to the other side of the street. At
 that moment two men were standing by a telephone
 post, opposite him and facing the street: one was
@@ -2610,7 +2063,6 @@ with the man’s eyes and the man’s eyes appeared
 to be leveled* at his own head. He quickly lowered
 his focus on the white vest and discovered on it
 line after line of chaxacters of varying’ sizes.
-
 In another -instant a semi-circle of spectators
 had formed in front of the policeman and his
 prisoner. By the time a bald old man had joined
@@ -2622,21 +2074,14 @@ occupied the space of two, so that the spectators
 who continued to arrive had to stand ‘on the
 second row and stick their heads out between the
 necks of those in front. 6
-
 The bald man was standing almost directly
 in front of the man with the white vest. He
 teaned forward and began tostudy the characters
-
-
-
 ---
-
 ## Scan page 126
-
 tr" ,
 written.on the vest and “ended up by reading
 them aloud. -
-
 The fat boy noticed that the man in the
 white vest was, on his side, studying the shiny
 bald head. Thereupon he followed the former’s
@@ -2652,7 +2097,6 @@ finished reading, but that could not be helped. He
 turned his attention to the face of the man in
 the white vest andsaw under the rim of his straw
 hat half of his nose, a mouth and a pointed chin.
-
 i Again like a rubber ball that had been thrown
 against a wall and had bounced back, a school boy
 dashed up and set about to burrow‘ his way into
@@ -2669,27 +2113,15 @@ the waist of the biue pants and discovered at the
 ‘end a strip of empty space through which light
 was coming through. But just as he lowered his
 ‘ 125
-; : ;
-
 ---
-
 ## Scan page 128
-
 ap OF Be SS Te ia oo ak 2 nS ce A “ee ca ie Slee |. ae PR.
-.
-
 head and was about to bore his way through, he
-
 heard a “What do you want?” and observed a
-
 yawing' movement of a pair of buttocks’ below
-
 the waist of the blue trousers. The empty space
-
 was immediately sealed up and with it the light
-
 that was coming through disappeared.
-
 -But after a while the school boy managed to
 emerge’ beside the policeman’s sword. He looked
 around wonderingly: beyond him a crowd of people,
@@ -2705,34 +2137,25 @@ been watching the schoolboy’s face, he now followed
 the latter’s line of vision and turned his head
 around. What he saw was the man’s fat breast
 with a few long hairs around his nipples.
-
 “What is the man, er, guilty of?”
-
 The voice that broke the silence and startled
-every « ‘ came from a man who appeared to be
+everyone came from a man who appeared to be
 a laboure.. He had humbly directed his ‘question ;
 to the bald old man. ti ;
-
 The bald man did not answer him but simply
 stared at him steadily until he lowered his eyes.
 When-he looked up again after a while, the bald
 mar was still staring at him. Moreover, he felt
 that every one else was staring at him too. This
 made him ‘feel as uncomfortable as if he had
-
 ; 127
-
 ---
-
 ## Scan page 130
-
-.
 committed a crime himself and in the end forced
 him to back out and slink' away, whereupon a
 long fellow with an umbrella stepped up and filled
 the plac; that he had vacated, while the bald man
 again turned his attention to the white vest.
-
 For a while the long fellow bent oyer to gel
 a better view of White Vest’sface under therims .
 of his straw hat, but when for one reason or
@@ -2741,7 +2164,6 @@ again became necessary for those standing behind
 them to stretch oat their necks. A thin man had
 to stretch out his neck se much that his mouth.
 ‘ropped open like’a huge dead perch.”
-
 Now the policeman suddenly lifted a foot
 without any warning. At this the crowd was
 again startled and turned their attention to the
@@ -2751,26 +2173,19 @@ fellow now bent his waist once. more to investigate
 under the straw hat but once more he straightened
 up, only this time he lifted one hand and scratched
 his head violently.
-
 Bald Head now appeared annoyed,’ for he
 had just sensed a disturbance of :the peace behind
 his back, followed by the sound of munching and
 smacking. He looked back with a frown and
-caught sight of a black handin theact of stuffing
+caught sight of a black hand in the act of stuffing
 a large hunk* of muntow into the mouth of a man
 with a cat’s face. Bald Head decided to say
 nothing and turned his gaze at White Vest’s new ,
 straw hat.
-
 Suddenly the fat man staggered forward as.
-
 ’ 429 ‘
-
 ---
-
 ## Scan page 132
-
-~ -
 a hand. just about as big and fat as his own
 reached” over his shoulders, stretched out its
 fingers and struck a blow on. the fat boy's cheek
@@ -2804,11 +2219,8 @@ _the protrusions' on his chest. He brushed the
 sweat off with his hand. xf
 The general situation was, nowever, no longer
 ; 131 y
-
 ---
-
 ## Scan page 134
-
 PR TR ae Me TR oT ee ey, eee
 -as peaceful and satisfactory. The nurse maid with -
 the baby in her arms happened to turn her head
@@ -2823,14 +2235,12 @@ the nurse maid, but she steadied herself, turned
 the child round to face White Vest again, and .
 said, pointing with one hand. “Look there! Goody,
 goody!”
-
 A young man with a stiff straw hat and
 looking like a student suddenly stuck in his head
 through an empty space, put some sort of melon
 seed into his routh, gave it a crack between his
 teeth, and then withdrew, His place was taken
 "by an oval face cowo:ed with dirt and grease.
-
 Now the long fetlow withthe umbrella appeared,
 annoyed and was frowning and staring over his
 shoulder at Dead Perch. It was very likely that
@@ -2843,25 +2253,15 @@ seemed to take a great interest init. The fat man
 and the policeman were studying the tip of the
 nurse maid’s sickle’ like feet out of the corners
 of their eyes. :
-
 “Look at that!”
-
-
-
 ---
-
 ## Scan page 136
-
 People shouted out somewhere. As this held
-
 out. mew promises fior all those present, every one
-
 turned around, inchuding even the policeman and
 his prisoner.
-
 “Bauize just out of the steamer! Ho-a-a,
 bots...” :
-
 The fat boy wais crying sleepily with his mouth
 cocked on one side; the ricksha men on the street
 were running grimlly as if trying to escape from
@@ -2871,34 +2271,25 @@ perseverance’ was finally rewarded with the dis-
 covery, at about tem or fifteen houses away, of a
 standing ricksha and a ricksha man just. getting
 up from the ground, —
-
 The semicircle’. immediately broke up and
-
  gtraggled' off in that direction. The fat man
-stopped to rest undier a locust? tree before he had
-gone half way, whille the long fellow, who walked
-faster than cither Bald Head or Oval Face, was
+stopped to rest under a locust? tree before he had
+gone half way, while the long fellow, who walked
+faster than either Bald Head or Oval Face, was
 the first to reach tlhe scene. The passenger was
 still seating in the ricksha, but the man had gotten
 up, still rubbing his knee caps‘. Around them
 were five or six men laughing’ and grinning at
 them.
-
 “Can you go om?” the passenger asked as the
 ricksha man started to pick up the shafts*.
-
-The latter only podded, pulled up the ricksha
+The latter only nodded, pulled up the ricksha
 and went off, with the crowd following him with
 their eyes. For a while they were able to tell
 which was the ricksha that had haa a: fall, bat .
 soon it got lost among’ the other rickshas,
-
-iow
-
 ---
-
 ## Scan page 138
-
 ) The street became quiet again. There were ;
 ' -geveral dogs all panting with tongues out, the j
 rapid rising and falling of their bellies‘ being ;
@@ -2911,17 +2302,10 @@ _his.mouth cocked to one side and his voice drawn
 out, continued to cry sleepily—
 “Hot bautze-a-a.. ! Ho-a-al Mantou bautze
 just...” ,
-(Fr. China’s Journal) ‘
-
-
-'
 Z '
 137 {
-
 ---
-
 ## Scan page 140
-
 Professor Kao
 ‘The saying that “worries begin with learning”
 is certainly true, for on the day under consideras
@@ -2951,12 +2335,8 @@ him before the girl students, should it be discovered
 by them. He sighed as he put down the mirror. ‘
 ‘Then he felt that the compiler of “A Text
 . Book History of China” was entirely too incon-
-
-
 ---
-
 ## Scan page 142
-
 Kan eRe Re Geee ee ae eh Ne TS eee
 ‘
 siderate of the teacher’s position. Though his book
@@ -2969,7 +2349,7 @@ lecture before his students. Then finally, his ire’
 resigned in the middle of the term, when he Ae
 glanced at ‘he slip of paper stuck between the
 pages’ of the book; for on the slip was written— P
-“Begin with Chapter8sThe-Rise and Fall of
+“Begin with Chapter 8—The Rise and Fall of
 Eastern Chin.” a
 If the man had not finished with the events
 of the Three Kingdoms: period, he would not have
@@ -2994,13 +2374,8 @@ Simultaneously a hand reached out from behind
 14] ; ,
 var! ‘4 i
 ‘i
-
 ---
-
 ## Scan page 144
-
-y
-
 and gave him a tip’ under the chin. ‘However, he
 did not move, for he knew from the voice and
 action that he who had just slipped into the room
@@ -3017,44 +2392,32 @@ Hvang San was definitely a man_ without any
 accomplishment, definitely a low-brow. Therefore
 he did not turn his head but simply answered
 with curt' seriousness— ~
-
 “None of your fooling, please! I am preparing
 for my lecture .. .”
-
 “Did you tell Lao-po yourself that you wanted
 to get a teaching jobso that you can’get achance :
 to look at the girl students?”
-
 “You mustn’t believe Lao-po's kou pi.” :
-
 Huang San sat down by. his desk and
 discovered at a glance a piece of red note paper
 among his mirror and books. He seized it and.”
 looked at it with bulging’ eyes—
-
 Professor Kao Erh-ch’u is hereby‘ earnestly
 requested to assume’ the post of teacher of
 ~ history in our school at the stipend® of thirty
 cents an hour, four hours a week, payments
 to be made on a strictly hourly basis.
 By request of Ho-Wan Shu-cheng, principal
-
-
 ---
-
 ## Scan page 146
-
 TN aia eae a ona. PALE eat .
 of the Girls Virtue and Goodness School.
 The thirteenth year of the Republic (1924)
 tees
-
 “*Professor Kao-Erh-ch’u’? Who’s that? Your
 Have you chariged your name?” Huang San asked
 eagerly as he finished reading the note. :
-
 But Professor Kao only smiled disdainfully.'
-
 . Yes, he had changed his name, but Huang Sdn,
 who thought only of .mah-jong and who had not
 paid the slightest attention to the new learning
@@ -3064,9 +2427,7 @@ never heard of a great Russian writer by the
 name of Kao-erh-chi (Gorky). Gloating over the
 poor man’s ignorance, he. only smiled disdainfully,
 but did not answer,
-
 “Wei, Lao-kan, you shouldn't go in for this
-
 kind of foolishness!” , Huang Sah said, putting
 down the letter of appointment. “Is it not bad
 enough to have a boys school in our city to
@@ -3081,17 +2442,10 @@ impatience, both because Huang San had maligned?
 schools and hecause he had discovered by his wrist
 watch that it was already two-thirty, only half
 an-hour before class time.
-
 “All right, we won’t talk about that,” Huang
-
 : 145
-
 ---
-
 ## Scan page 148
-
-;
-
 ‘San said placatingly,' being a sensible man. “Let
 us get down to business: we have a game on
 tonight. The eldest son of Mao Tzu-fu of Mao-
@@ -3100,54 +2454,42 @@ two hundred dollars with him. We have agreed to
 make up a table this evening, with I myself,
 Lao-po, and yourself. You must come without
 fail. Lét the three of us clean him out!”
-
 ~ Lao-kan—that is, Professor Kao—hesitated
 and did not speak. ‘ .
-
 “You must come, you must! I have to go and
 see Lao-po about it. It is going to be at my house.
 That boy ‘has just emerged from his thatched
 hut’ and we are sure to clean him out! Give me
 that set of yours for the patterns on the bamboo
-
 backs are clearer.” ‘at
-
 Slowly Professor Kao stood up, took the box
 of mah-jong tiles from the head of his bed, and
 gave it to Huang San. He consultéd his watch
-and found that it was already twoforty. He
+and found that it was already two-forty. He
 admired Huang San’s keen abilities, but he was
 annoyed with him because he had maligned the
 -schools before him though he knew all the time
 that he, Kao Erh-ch’u, was now a teacher himself
 and because he had kept him from preparing -his
 lecture. Consequently he said indifferently—
-
 “Let us talk -about that tonight. I must go
 to class now.” ,
-
 As he said This he took another hard look at
 his Liao-fan Kang Chien, put the text book into ~
 his new brief case carefully put on his new hat
 and went out with Huang San. As soon as he
-
 147 |
-
 ---
-
 ## Scan page 150
-
 aed yee >
 stepped out ef the gate he strode off, his shoulders
 rising and falling like the cross bar of a
 carpenter’s hand drill, and soon left Huang San
 out of sight. 4
-
 When he reached the school, he took out one
 of his newly printed cards and gave it to an old
 hunchback gatekeeper. Presently he heard a “please
 come this way”. He followed the hunchback and
-
 after a couple of turns fofind himself before the
 staff rest room, which served also asthe réception © |
 hall. Principal Ho was not in the school; he was
@@ -3159,29 +2501,22 @@ Emperor’s Altar” he had been publishing in the
 Great China Daily Ne» a series of poems that
 purported' to have passed between him and a
 female immortal. :
-
 “Ah, Brother. Chi’ul Chiu-yang, Chiu-yang.”
 Wan Yao-p’u shook his clenched hands before him
 and bent his hip and knee joints four or five
 times as if he were about squat* down.
-
 “Ah, Brother Yao! Chiu-yang, Chiw-yang.”
 Brother Ch’u said and acted likewise.
-
 After this they sat down and a servant who
 looked as if he might be half dead brought them
 two cups of boiled water. Professor Kao noticed
 that it was only two-forty by the wall clock
 opposite him, a ‘discrepancy’ of almost half an
 hour by his wrist watch.
-
 a “Ah, yes!”. Brother Ch'u said, “Yes, I have
 . 149
-
 ---
-
 ## Scan page 152
-
 oe your essay’ Our Duty to the National Fasence!
 It is an essay full of pertinent’ remarks, an essay
 which one never gets tired of reading a hundred
@@ -3214,18 +2549,13 @@ such considerations as these: he must be strict b
 and serious in his classroom manner; must conceal
 as much as he could the scar on his forehead;
 mast read slowly from the text book; must not
-
 ’
-
 ---
-
 ## Scan page 154
-
 seem embarrassed when he looked at the students.
 Through these and other scattered. thoughts he
 caught bits of Yao-p'u monologue— :
-
-“« .,. Got simply a waterchestnut ...
+“ .,. Got simply a waterchestnut ...
 ‘Leaning drunkenly on her blue phoenix, she rode
 up to heaven.’ How ingenious’ that was... It
 was not until Teng Hsiao-weng had begged for
@@ -3234,40 +2564,28 @@ five times that she favored us witha quatrain* . . .
 Say not .. .’-The Goddess said . .. This is your
 first visit, I believe, Brother Ch’a? This is our
 Botanical Garden!” ;
-
 “Oh?” Erh-ch’u suddenly woke up from his
 confused thoughts as Yao-pu raised his hand and
 pointed to a yard outside the window. There were
 four or five trees in the yard and directly across
-
 from it a low building. . i
-
 “And this is. the lecture room,” Yao-pu
 continued without shifting the direction of his
 hand.
-
 “Hol”
-
 “The students are very quiet and easy to
 handle. Outside of listening to lectures, they
 devote themselves to sewing . . .”*
-
 “Qh!” Erh-ch’u became more and more
 agitated and wished that the man would not talk
 any more so that he could concentrate a little
 upon the rise and fall of Eastern Chin.
-
 “Unfortunately some of them get the notion
 that they want to write verses. That would not
 do. It is all very well to be modern, but verse
 making is, after all, something that respectable
-
-
-
 ---
-
 ## Scan page 156
-
 young ladies should not indulge" in. The Goddess ‘
 does not care much about schools for girls either;
 she considers it to be opposed to the natural
@@ -3275,20 +2593,15 @@ division of the male and female principles and
 says that it is the general opinion of her colleagues
 in Heaven. I have discussed the matter with
 Se NIE 8
-
 Erh-ch’u suddenly jumped up as he heard ) .
 bells ringing. 3
-
 “No, no, please sit down! That is the
 dismissal bell.”
-
 “Brother Yao must be very busy. Please do
 not...”
-
 “No no, Iam not busy af all. I think the
 establishment of girls’ schools is in accordance
 with the general trend of the world, but one
-
 . must be very careful if one is to.avoid extremes.
 it is probably because of this same thought that,
 the people in heaven do not like education for
@@ -3301,20 +2614,12 @@ national essence. Don’t you agree with me? This
 was what the Goddess had in mind when she said
 that education for women was ‘not without some-
 thing to recommend itl”
-
 The servant brought in another two cups of
 boiled water and again the bell began to ring.
-
 Yao-pu invited Erh-ch’u to drink some water.
 Only then did he stand up slowly and led him;
-
-
-;
-
 ---
-
 ## Scan page 158
-
 after passing across the botanical garden, into
 the lecture hall. .
 His heart pounded violently as he stood by
@@ -3334,7 +2639,6 @@ fortunate to have such a person as Professor Kao.
 Now at the urgent request of Principal Ho, he
 has finally consented to come to our school and
 take up the teaching of history .. .”
-
 ; Professor Kao suddenly felt a lack and
 realized upon investigation that his Brother Yao
 was no longer there and. that he was standing
@@ -3343,18 +2647,14 @@ but to mount the platform and face his students.
 He collected himself and- remembered that he
 must adopt a strict and serious manner. So he
 opened his book slowly and began to lecture on
-the rise ahd. fall of Eastern Chin.
-
+the rise and fall of Eastern Chin.
 “Hee, hee,” It appeared that some one was
 iaughing.
 Professor Kao fiushed and took a quick glance
 at his book. He had not made any mistake. The
 167 —
-
 ---
-
 ## Scan page 160
-
 ‘ook. clearly said: “The temporary security of
 Eastern Chin.” Across the top of the book he
 ‘saw as before a room half full of bobbed heads
@@ -3387,12 +2687,8 @@ Realizing that if he allowed’ his eyes to drift:
 downward he would not be able to avoid the
 fearful sea-of eyes and nostrils, he brought them
 abruptly back to his book.. By this time he was
-
-
 ---
-
 ## Scan page 162
-
 Pe Ee RE ene Se awe Lope Ae Tee Sa See eee
 at the Battle of the Fei River in which Fu Chien
 was so thoroughly beaten that he imagined he saw
@@ -3426,21 +2722,13 @@ was so jolted by it that he dropped his “Text
 Book History of China.” Upon stepping back a
 couple of steps and looking up he saw a low slat-
 ing branch in front of him, its leaves trembling
-
-
 ---
-
 ## Scan page 164
-
 TP eT eer or ee a ee ee ee
 from the collision' with his head. As he stopped
 down hastily to pick up his book, he discovered a
 wooden tablet stuck in the ground by it on which
 was written-—
-
-MULBERRY
-GENUS MULBERRY
-
 Again he seemed to hear laughter behind his
 back and fancied that the sound .of laughter must”
 have come from the sea‘of eyes and nostrils.
@@ -3454,7 +2742,6 @@ Brother Yao. Everything appeared drab* and -
 desolated with: only his* new hat and new brief
 case shining in the drabness and desolation. It:
 was only three-forty by the wall clock.
-
 Even after he had been in his own room for
 a long while, Professor Kao was still subject to
 sudden fits’ of unreasoning anger: and of feeling
@@ -3462,20 +2749,12 @@ hot all over. In the end he came to the realization
 that schools were without doubt a bad influence,
 that it was best to close, them, especially girl’s
 schools. What good do they do anyway? It was
-
 nothing but vainglory!
-
 “Hee, hee!”
-
 He still heard that sound of laughter. This
 made him angrier yet and hardéned his decision
-
-
-
 ---
-
 ## Scan page 166
-
 to resign. He would write to Principal Ho that
 very evening and say that he had trouble with
 his feet, But what would he do if they begged
@@ -3483,7 +2762,6 @@ him to reconsider? He would not reconsider. You
 never can tell what the girls’ schools may come ,
 to. Why’ should he get himself mixed up with
 their kind? It was not worth bothering with.
-
 Resolutely he moved aside the Liao-fan Kang
 ‘Chien, pushed away the mirror, and folded up
 the appointment letter. But as he was about to
@@ -3491,7 +2769,6 @@ sit down he felt annoyed at the bright red of the
 appointment letter; he took it and stuffed it in
 his drawer together with his “‘Text Book History
 of China.” :
-
 Things were aow about in shape: there was
 now only a mirror left on his desk and he felt
 less stuffy and oppressed. Yet there was still
@@ -3500,66 +2777,43 @@ satisfaction. Then immediately he realized what
 it was. He put on his sealp''cap with a red knot ‘
 on it and went off in the direction of Huang San’s
 home, :
-
 “Here he is—Professor Kao Erh-ch’u!” Laopo
 said loudly.
-
 “Fang Kau pil” he said frowning and giving
 Lao-po a slap on the head.
-
 “I suppose you have had your first class?
 How was it? Are there any good looking ones?”
 Huang San asked enthusiastically.
-
 “I have no intention of continuing. I don’t
 know, really, what girls’ schools will come to. It is
 definitely not worthwhile for respectable people
-
 . 165 M
-
 ---
-
 ## Scan page 168
-
 : like us to get mixed up in the mess... .”
-
 The gldest son of the Map family came in,
-
 fat like a round dumpling.
-
 “Ah, Chiu-yang, Chiu-yang!"’ Every one in the
-
 room shook his clenched hanas in front of himself
-
 and bent his knee and hip joints repeatedly as if
 about to squat down.
-
 “This is brother’ Kao Kan-ting that we have
 told you about, Lao po said to the eldest of thé
-
 Mao family, pointing to Professor Kao. — : :
-
 “Ah, Chiu-yang, chiu-yang” the eldest son.of
-
 the Mao family gave a few extra hand shakings
-
 in his direction, nédding lis head.
-
 To the left of the root a table had been .
 placed at an angle. Huang San occupied himself
-
 as he chatted.with his guests in laying out the
-
 chairs and the counters; assisted by a child maid
 servant. In a few moments a foreign parafin'
 candle had been lit and placed at each . corner of.
 the table and the four men took their seats.
-
 All became still except for the crisp* staccato*
 sounds made by the ivory surface of the mah-jong
 tiles as they were slapped down on the teak wood
 table:
-
 Professor Kao’s luck was not bad, but still
 he felt discontented and out of sorts.‘ It had ‘
 always been easy for him to forget, but on this
@@ -3569,31 +2823,21 @@ of connters before him, he felt little comfort and
 liftie optimism. However, times and morals do
 change, and Professor Kao in the end_ suffered a
 
-i167
-
 ---
-
 ## Scan page 170
-
 change of heart and had to admit that things
 were not so black after all, That happened after
 they had finished the second round and when he
 ‘was about to complete his ‘pure one colour’ hand. i
-(Fr. Chinese English Series)
 19 ‘
-
 ---
-
 ## Scan page 172
-
-A Hermit At Largo
+A Hermit at Large
 By Lu Hsun
 5 a
-
 My relations with Wei Lien-shu were, come
 to think of it, rather odd; for the chain of events.
 began with one funeral and ended with another.
-
 I used to hear his name mentioned when I
 was at the city of S. It was said that he was a
 very strange ‘fellow: he specialized in zoology and
@@ -3611,35 +2855,22 @@ happened to be staying with some relatives at
 Cold Stone Mountain. Their name was Wei and
 they were Lien-shu’s kin. But they knew even
 less about him, and seemed to look upon hit aa
-
 if he were a foreigner. “He is different from us
-
 all,” they: said in summing him up.
-
 This was not strange, for although mod+ta
 education had already had a history of over twenty
-
-
-
 ---
-
 ## Scan page 174
-
-
-
 years in China, Cold Stone Mountain did not even
-
 ‘have a primary school. In the mountain village,
 Lienshu was the only one who had gone out to
 study. He was, therefore, really different. However,
 they also envied him, for he was said to carn a
 lot of money.
-
 Toward the end of Autumn dysentery’ began
 to be prevalent. I was vather alarmed by it
 myself and was thinking of returning to the city.
 I heard that Lien-shu’s grandmother was among
-
 those afflicted and that she was in.a very Serious
 condition because of her age. There was no
 physician in . the. village. Lien-shu’s' immediate
@@ -3650,11 +2881,9 @@ childhood and. was reared and brought up by this
 grandmother of his. She suffered a great deal of
 privations: in her day, but’ now she was without
 wants. Since Lien-shu was unmarried, his house
-
 . was naturally a very quiet and lonely orte. This
 was probably one of the things that caused people
-to look upon hjm as somewhat odd. «
-
+to look upon him as somewhat odd.
 -* Gold Stone Mountain was one hurdred li by
 land or seventy li by water, from the city, requir-
 ing at least four days for a special messenger to
@@ -3664,18 +2893,12 @@ first magnitude’, which every one wanted to find /
 out about. On the second day it was made known
 that her condition ‘had become critical‘ and that
 a special messenger had been despatched. But
-
-
-
 ---
-
 ## Scan page 176
-
 a eT eT Rr iar. tuo a |
 she breathed her last during the fourth watch of
 the same night, her last words being: “Why can’t
 I have a last meeting with Lien-shu?”
-
 The head and nearer members of ‘the clan,
 representatives from the grandmother’s family and
 idlers gathered in a crowded room to devise ways
@@ -3693,7 +2916,6 @@ chief mourner must fulfill: (1) he must wear white;
 and Taoist priests to conduct funeral services. In
 other words, everything must be done the way it
 had always been done.
-
 After they had decided upon these essentials
 they arranged to meet again in the front hall of
 the house of mourning on the day of Lien-shu’s
@@ -3706,13 +2928,8 @@ Lien-shu for a “revolutionary” who “eats religion”,
 a man devoid* of common sense and justice, and
 they anticipated a violent- struggle between the
 parties, perhaps even something quite unexpected.
-
-
-
 ---
-
 ## Scan page 178
-
 It was said that Lien-shu arrived in the
 afternoon. Entering the house, he only made a
 slight bow* before the spirit tablet of his grand-
@@ -3746,12 +2963,8 @@ anticipations. :
 I was amorg those that went to see the cere. Ee
 mony, sending beforshand incense and candles as an j
 177 é r a
-
 ---
-
 ## Scan page 180
-
-
 offering to the deceased. When I arrived at the
 house of mourning, I found Lien-shu already
 engaged in enshrouding the dead. He was a short
@@ -3771,7 +2984,6 @@ and quietly and-obligingly made whatever changes
 that were demanded. A white haired old lady .
 standing before me could-not help emitting’ a sigh
 of appreciation.
-
 “The enshrouding was follwed. by kowtowing,
 then weeping, which the women did-with improvised*. |
 librettoes®. The body was then put into the coffin,
@@ -3783,18 +2995,12 @@ faction in the atmosphere. It had suddenly occurred
 to everyone, as it had occurred tome, that during
 all the time Lien-shu had nof shed a single tear.
 He only sat distractedly* upon the mourner’s straw
-
 mat, his eyes glittering through his swarthy . :
 countenance. © } j
 ; 179
-
 ---
-
 ## Scan page 182
-
 Pe ae ah ine tea ie : can aa
-
-
 The encoffining was thus concluded in this
 atmespnere of surprise and dissatisfaction, and
 the spectators were about to disperse while Lien-
@@ -3810,9 +3016,7 @@ and did not know what to do. After a while a ~
 few went up to him to persuade him to stop
 crying. More went to him untilhewassurrounded -
 entirely, but he kept on making his heart-breaking
-
 , eries, oblivious' of the people around him.
-
 “Since their efforts, to persuade him ‘to stop
 crying were of no avail’, they desisted’ and walked
 away from him aw’~ ardly, He cried and cried
@@ -3822,7 +3026,6 @@ the mourners. Some oné went in to peep and came
 back with the report that he had gone into his
 grandmother’s room to lay. down, and appeared
 to have gone off to sleep.
-
 Two days Jater, the day before I was to start
 back for the city, I heard heated discussions
 among the villagers. They said that Lien-shu
@@ -3830,20 +3033,14 @@ wanted to burn up most of the furniture as
 offerings to his grandmother, and to distribute.
 the rest to those who had served her in her life-
 time, and particularly to the maid who waited
-
 181 »
-.
-
 ---
-
 ## Scan page 184
-
 upon-her at her death bed. Moreover, he wanted
 to let the maid have the use of the house as long
 as she lived. His relatives and kin talked against
 it until their tongues were worn out and their :
 lips dry, but it was no use.
-
 Probably it was mostly out of curiosity that
 I stopped by his house on my way to the city to
 offer him my condolence.' He came out wearing
@@ -3851,11 +3048,8 @@ unhemmed white cotton, and looked very much ’
 the same as I first saw him, very much aloof. I
 comforted him the best I could,-but he, outside
 of perfunctory’ answers, only said.— ti
-
 “Thank you for your kindness.” :
-
 0. >
-
 It was early in the same winter that we met
 for the third time in a bookstore’ in the city of
 S. We nodded to each other» as acquaintances.
@@ -3865,35 +3059,26 @@ each other well. I went to:see- him a great deal :
 because I had nothing to doand wanted company,
 and because I was told that though he was by }
 nature aloof he liked to associate with those in.
-unhappy circumstances. But fortunes «rise and -
+unhappy circumstances. But fortunes rise and
 fall, and those who are in unhappy circumstances :
 may not always remain so; consequently he did
 not have many friends of long standing. This
 reputation was indeed true for he received me as
 soon as I sent in my card. His guest room was simply
 furnished with some book cases besides tables and-
-
 ---
-
 ## Scan page 186
-
 Ee OE eee fae ee ee ae ng Sree ede ee
 chairs. Though he was known as a “revolutionary,”
 there were few books onthe shelves. He had heard
-
 that I had lost my position. After the, usual
-
 words of greeting, host and guest became silent. :
-
 He finished his cigarette very quickly and did not
 throw it on the ground until it burned almost to
-
 his fingers.
-
-“Have a cigarette,” ne said, as he reached
+“Have a cigarette,” he said, as he reached
 out for his second. :
-
-I took a cigarette andas we smoked we talked
+I took a cigarette and as we smoked we talked
 about teaching and books, but soon our conversation
 lagged' again and I.was about to leave when I
 heard footsteps and~chatter,; and four children
@@ -3902,94 +3087,64 @@ youngest four or five, all very dirty and homely’
 enough. However, Lien-shu’s eyes lighted up with
 pleasure as he stood up and walked into the inner
 room, saying— f
-
 “Big Liang, Little Liang, come here! I have
 got the harmonicas that you asked for yesterday.”
-
 The children rushed in and immediately
 rushed out again each’ with a harmonica Almost
 as soon as they stepped out of the guest. hall they
 began to qkarrel. One of them was crying.
-
 “There is. one apiece” and they are all the ~
 same,” he said to them, “so do not fight over
 them.” ; Say
-
 “Whose are they, all these children?” I asked.
-
 “They are the landlord’s. They have no
 mother, only a grandmother to take care of them.”
-
 “Is the landlord single?” *
-
 ' “Yes. His wife died three or four years ago
 185 -
-
 ---
-
 ## Scan page 188
-
 i, 4
 and he has not married again. Otherwise he
 would not rent his spare rooms to a-bachelor.”
-
 He smiled a wry' smile as he said this.
-
 I wanted to ask him why he had remained
 simgle, but did not do so as we did mot know each
 other well enough.
-
 ’ As soon as one got acquainted with Lien-shu
-
 one would find him a good person to talk with.
 He had something to say on almost. any subject,
 and everything he said was marked with originality.’
-
 Some of his visitors were not very easy to put
 up with. They probably had read Zost* for they
 often referred to themselves as “unfortunate
 youths” or “forgotten men.” They sprawled them-
 selves languidly* on) the chairs like so many crabs,
 -sighing and smoking incessantly. Then there were
-
 the. children, always quarreling, upsetting cups
-
 ‘and saucers, demanding sweets and~ generally
 making a nuisance’ of themselves. But as soon as
 Lien-shu saw them he would lose his usual _
 coldness; he seemed to cherish~them more than
 his own life. I was told that-when Third Liang .
 had the measles‘ he was so upset that his swarthy
-
 ‘ countenance looked darker than ever. It happened
 to be a light case, and the child’s grandmother ‘
 ‘thought it was a good joke and liked to tell about
 it.
-
 “Children are always good. They have not
 yet been contaminated,” he said to me one dav
 as he noticed my impatience with the children.
-
 “That is not necessarily tame,” I said
 indifferently.
-
-waz
-
 ---
-
 ## Scan page 190
-
 “You ae wrong. Children do not have the bad
-
 traits’ that grownups have. If they become bad
-
 later on—the kind of badness that you attack—it
-
 ds because of their environment. They are not bad
-
 to start with .. . I think the only hope for China
 lies in that.” ;
-
 “No. If children do not have the seeds of
 badness in them, how can they bear bad flowers
 and fruits when they grow up. It is only because
@@ -4005,7 +3160,6 @@ Buddhism, though. I. talked glibly* .about -karma,”
 or the chain of cause and effect. » a, %
 .  Lien-shn became furious, looked’ at’ me
 contemptuously and would not say another word.
-
 / I was not quite sure whether he had reaily
 nothing to say or whether he felt that it would
 be beneath his dignity to expostulate’ with me.
@@ -4013,72 +3167,51 @@ But, I noficed that he assumed the cold manner
 that I had not-geen for some time. *He smoked
 two cigarettes in silence. I fled as he reached for
 a third.
-
 This difference between us was not cieared
 up. antil three months later, partly perhaps
 ‘because he had forgotten about it, and partly
 bécause he himself happened to have been abused
-
 3 189 ,
-
 ---
-
 ## Scan page 192
-
-}
 by “innocent” children, and therefore félt that
 there was some justification in “my blasphemv'
 ,against them. This was, of course, only my-guess.
 It happened at my lodgings after’ some wine.
 Logking up reflectively he said’ with an air of ;
 sadness—
-
 “It is really tery Stratige wher you think
 about it. As \I was coming towards your house I
 ‘saw a very small child.. He waved the reed leaf.
 that he was holding at me and said ‘Kill him!’
 He was hardly old enongh to walk... ..”
-
 “It is because he has been corrupted* by his
 surroundings.” * “
-
 1 immediately regretted that I had said it,
 but he did not seem to mind it, and went on
 drinking and smoking furiously.’
-
 “By the way,” I said, trying to cover up my
 blunder® by changing the subject, “what has
 brotght you here? I know you are not in the
 habit of calling on people. We have known each
 other for more than a year, but this is the first
 time that you have come to ty place.”
-
 “I was-just going to tell you: you must not
 come over to my lodgings to see me. There are
 two persons there. one young and one old, who
 will mausegte* you.”
-
 “One old and one young? Who are they?” I
 said with surprise. :
-
 “My elder cousin and his younger son, Huh, '
 the son is exactly like his father.”
-
 . “I suppose they have come to see you andat
 the same time take in the sighte of the city?”
-
-
-
 ---
-
 ## Scan page 194
-
 “No. He says that he wants to talk to me
 about my adopting that boy.” x
-
 “Oh,” I said with astonishment. “But you are
 not yet married, is it not so?” >
-
 “They know that I am not going to marry..
 But that does not matter. What they really want
 is that old house of ours in Cold Stone Mountain.
@@ -4088,53 +3221,41 @@ have only this dilapidated’ house. The only interest
 that my cousin and his. sons seem ‘to have in life
 is to drive out the old maid servant who is
 living in it.” J
-
 The bitterness. with which he said this chilled
 me. I tried to comfort him, saying — :
-
 “I do not think that your kinsmen could be
 that bad. Their only fault is that they are some-
 what old-fashioned and reactionary* in their think-
 ing . I remember that they were very Ssolicitous*
 and eager to comfort you when you cried sc
 sorrowfully at the funeral. . ..”
-
 “They were just as solicitous and eager to
 comfort me when my father died, though that
 did not prevent them from trying to make me sign
 away my house ...” He looked up and ‘stared
 into empty space as if trying to form a picture
 of just what had happened then.
-
 “In a word, the crux‘ of the matter is that
 you have no chitdren. Why is it that you would
 not marry?” Finally i hit upon this subject which
 I had in mind a long time and which seemed
 more appropriate to bring up now than at any
-
-
-
 ---
-
 ## Scan page 196
-
 other time since I had known Lien-shu.
 He looked at me with surprise and then cast
 his eyes down and stared at his knees. He lit a
-cigarette and kept on smoking without anwering
+cigarette and kept on smoking without answering
 my question. i
 ; il.
 But dreary and cheerless as ‘Lien-shu’s
-
 ‘circumstances were, he was not allowed to live i
-
-his life in peace. Gradually there-appeard in the
+his life in peace. Gradually there appeared in the
 tabloid’ newspapers, anonymoys attacks upon him,
 and gossip about him became more frequent
 among the teaching fraternity’. The gossip was
 not out of curiosity and amusement as formerly,
 but out of malice, and was intended to do him
-
 harm. I knew the reason: it was because he had-
 recently published some articles, I paid no attentt-
 jon to the attacks and gossip. The people of the 7
@@ -4151,22 +3272,17 @@ that those I knew might have avoided this. fate.
 The people of S. did not, on this occasion, go out
 of their customary way of dealing with non-com-
 formers.
-
-
-
 ---
-
 ## Scan page 198
-
 other time sincé I had known Lien-shu.
 He looked at me with surprise and then cast
 his eyes down and stared at his knees. He lit a
-igarette and kept on smoking without anwering
+cigarette and kept on smoking without answering
 my question.
 il.
 But dreary and cheerless as  Lien-shu’s
  -¢ireumstances were, he was not allowed to live
-his life in peace. Gradually there appeard in the
+his life in peace. Gradually there appeared in the
 tabloid’ newspapers, anonymoys attacks upon him,
 and gossip about him became ‘more frequent
 among the teaching fraternity’...The gossip was
@@ -4188,21 +3304,10 @@ that those I knew might have avoided this. fate.
 The people of S. did not, on this oceasion, go out
 of their customary way of dealing with non-com-
 formers.
-
-.
-
 ---
-
 ## Scan page 200
-
-'
-
-
-
 But he cannot have gone far, so you might as
-
 well wait. He will be back soon.” :
-
 I pushed the door open and walked into the
 reom. Truly “An absence of one day is like three
 auturmns.” The room was dismal and empty. Not
@@ -4210,49 +3315,31 @@ only. was there little furniture left, but of his
 books there only remained those of foreign style
 which no one could possibly want in the city of
 S. The round table was still there—the table which
-
 used to be surrounded by languid and sad looking
-
 young men and neglected geniuses and dirty noisy
 children—but now all was so quiet and everything
 covered with a thin layer of dust. I put the
-
 bottle and packages on the table, pulled up a
-
 chair, and sat by the table: facing the door.
-
 The landlady was correct. Soon the door
-
 opened and a man came in as quiet asa shadow.
 It was Lien-shu. It might have been due to the
 lateness of the afternoon, but he seemed to me
 darker than ever, though he was otherwise the
 same.
-
 “Ah, so you are here! How long have' you
 been here?” He seemed glad to see me.
-
 “Not very long,” I said. “Where have you
-
 been?”
-
 “Nowhere in particular. I just went out for
 a walk.” ‘
-
 He also pulled up a chair anv set by the
 table, and we began to drink and to talk about
-his losing his position. However, he did not wast
+his losing his position. However, he did not want
 to talk much about that. He regarded it as some-
 thing to be expected, something which he was
-
-
-
-
-
 ---
-
 ## Scan page 202
-
 Re eee hr tere Sear, Meee Pe eee tre ee
 used to and which should cause no surprise, some-
 thing hardly worth talking about. Me kept on
@@ -4261,10 +3348,8 @@ and history in general. I suddenly noticed his
 ernpty book cases and recalled the early printing
 of the Chi ku ko edition of the Shihchi so-yin,
 and I felt a sense of melancholy and sadness.
-
 “Your guest room seems so desolate . +. .
 Don’t you have many ‘visitors nowadays?”
-
 “No. They don’t want to come because I feel
 rather depressed. One who feels depressed can
 make others feel uncomfortable also. No one wants
@@ -4273,105 +3358,74 @@ took two draughts. in succession without saying
 anything. Suddenly he looked up at me and asked:
 “J don’t suppose you have any assurance of getting
 any position either?”
-
 was about to give vent’ to my feelings on
 the subject when he cocked’ his ears to listen and
 went out with a handfuJ of peanuts. Outside was
 the sound of talk and laughter’ from Big Liang
 and his brothers.
-
 The children became silent the moment he
 went out, and seemed to have gone away. He
 followed and talked to them, but they did not
 answer him. He came back into the-room as
 quietiy as a shadow and put the peanuts back in
 the package. ts
-
 “They don’t even want to eat my things,” he
 said in a low, mocking, defiant’ tone.
-
 I felt saddened, but I said with a forced
 smile: “Lien-shu, I think you take things too hard,
-
-
-
 ---
-
 ## Scan page 204
-
-
 You are too misanthropic’ .. .”
 He smiled a wry smile.
-
 “IT have not yet finished what I was going to
 say. T suppose you think that we who occasionally
 drop in to see you come here because we have
-
 nothing else to do and are only trying to use you
 as an object of amusement?”
-
 “No, not always, though I think that way
 sometimes. People like to shop for material for
 conversation.” :
 “You are wrong there. People are not in ©
 -yeality like that. The truth is. that, you have
-woven yonrself4 cocoon and wrapped up yourself
-
+woven yourself a cocoon and wrapped up yourself
 in it. You ought to try to concede’ more light in
 the world.” }
-
 Nethay “Perhaps it is so. But tell me, where comes
-
 the silk filaments’? Of course there are many
-
 people like that“in this world. My grandmother
-
 was one of them; Though I have not’ shared her
-
 dlood I might vet inherit her fate. But it does
-
 not matter very much, for I have mourned both ~
 for her and for myself...”
-
 I recalled vividly his grandmother's encoffining,
 every detail reappearing before my eyes.
-
 “J never understood your heartrending cries
-
 at the time,” I said bluntly.
-
 ; “You mean at my grandmother’s encoffining?
-Yes, it 1s difficult for you to understand,” he
+Yes, it is difficult for you to understand,” he
 said as he lit the lamp. “Yes, it happens that —
 our acquaintance began at that time. You wouldn’t
 know, of course, that that grandmother of mine
-
 was my father’s step-mother; his own mother died
-
-
-
 ---
-
 ## Scan page 206
-
-
 When he was-three years ° old,” He reflected.
--d@rank ‘some spirits and finished his fish in silence.
+drank ‘some spirits and finished his fish in silence.
 Then he said: “I did not know these things
-myself, of course, though there were things thal
+myself, of course, though there were things that
 LTeould not understand as a child.” My father
--- was then still living and our family cireumstances
+-- was then still living and our family circumstances
 were fair. In the first month it was the custom
 in the family to hang up our ancestral portraits
 and to make offerings before them, I used to
-love to lock at those portre.s. of gorgeously costu-
+love to lock at those portraits. of gorgeously costu-
 aned men and women; it was an occasion which
 -came but. rarely, But at the time. the maidservant
-who ‘held me inher arms always poititéd\ to one
+who ‘held me inher arms always pointed\ to one
 portrait and said: ‘This is your own grandmother.
  Kowtow. to her and ask her to protect you and
 make yougréw fast and strong like dragons and
-tigers.’ t could- not understand’ why «1 should
+tigers.’ I could not understand’ why I should
 “have another grandmother when there was un-
 questionably already a-grandmother.. But I loved
 this grandmothe¥ who svas. not so old_as the other
@@ -4389,11 +3443,8 @@ how happily I played in front of her and called
 to her, I could not make her happy anc laugh.
 f 205
 ee ; :
-
 ---
-
 ## Scan page 208
-
 Ske always seemed so sad; so different from other
 people’s grandmothers. But I loved her just the
 same, though iater on I began to drift away
@@ -4427,70 +3478,42 @@ hard, and she lived to a ripe old age. I need have
 shed no tears, especially when there were so many °
 to mourn at the funeral: Even those who had
 nese! 207
-
 ---
-
 ## Scan page 210
-
 pane ETN ES aR Ye ee ge ee eR hoe
 persecuted' her in her lifetime appeared saddened.
-
 But Isomehow I saw then before my eyes the
-
 : whole of her life, the lonely and solitary life that
-
 she had woven for herself and which she spent
-
 her days in ruminating’ upon. Moreover, I felt
-
 that there were many people in the world like her.
-
 These people, their fate, made me cry. 1 was stili
 a plaything of my emotions ... ‘
-
 “The way you feel about me is the same as
 the way I used to feel about her. But I was
-wrong, for I kriow that I myself gradually drifted
+wrong, for I know that I myself gradually drifted
 away from her as far as I could remember . . .”
-
 He lapsed . into another silence, his head
-
 lowered in thought, and his cigarette burned on.
 The lamp flickered. "
-
 “Ah, it isnot easy to have no oné mourn
-
 for you after you are dead,” he said as if to
 himself. After*a while he raised his head and
-
 said to me: “I suppose there isn’t. anything that
-
 you can do. I must find something to do as soon
 as possible .. .” :
-
 “Don’t you have any other friends that you
 can call upon?” I asked. I was then at the end
-
 of my wits, even for myself.
-
 .. “There are still a few, but most of them are
-
 situated much as Iam. . .”
-
 When I left Lien-shu the round moon was in
-
 the middle of the sky. It was a very still night.
-
 W.
-
 Conditions in the educational world at Shan-
-
 a 209
-
 ---
-
 ## Scan page 212
-
 [Moone ee Ta Te See ead eine ye ree
 yang were very bad. Two months after 1 had to :
 cut out even cigarettes. But the officials of the
@@ -4512,35 +3535,20 @@ had an air of diffidence® about him, whereas before
 he was merely silent and aloof: Hearing that I
 was about to leave the city, he came to see me
 at night and said haltingly? “I wonder if there
-
 is anything one can do there? Even if it is just
 a clerical job at twenty or thirty-dollars a month,
 it would still be all right. I...” .
-
 I was very much surprised. I never thought
 that he would. demean‘ himself to this. I did not
 know .what to say. ‘
-
 “I... 1 want to live a few more years...”
-
 . “I'll see what I can do there. You can be sure
 that I’ll do the*best I can.”
-
 This was my promise and it recurred to me
-
  oftcn and with it Lien-shu’s face and his halting,
-
 diffident words “I want tolive a few more years’? .
-
-
-
-
-
 ---
-
 ## Scan page 214
-
-
 Then I tried to recommend him for jobs. But
 what was the use? There were more people than
 jobs, and the net result of my efforts was that I
@@ -4573,12 +3581,8 @@ sticking in two pieces of ccal, and they appeared
 very black against the snow. The eyes blinked and
 became Lien-shu’s eyes.
 “I want to live a few more years,” I heard
-
-
 ---
-
 ## Scan page 216
-
 a familiar voice say. j
 “Why?” I asked, without any apparent reason,
 and the question sounded idiotic' the moment I ‘
@@ -4611,13 +3615,9 @@ You may like to know something about
 me, and so here is the story in brief: I have
 now become a failure.~I used to consider :
 myself a failure, but I know now that I was.
-
 ‘ ,
-
 ---
-
 ## Scan page 218
-
 not. then a failure. It is now that I am
 definitely a failure. Formerly when there was ;
 someone who wanted me to live a few years
@@ -4625,15 +3625,12 @@ longer, when I wanted myself to live a few
 More years, it, was impossible for me to . :
 live . . . Yet now, when there is little reason
 for me to live, I keep on living ...
-
 But should I go on living the way 1 am
 living? ,
-
 The person who wants me to live longer
 is no longer living. “He has-been murdered
 by his foes. Who are his murderers? No oné ;
 knows.
-
 How fast life changes! During the past .
 year I almost came down to begging, I might
 say that to all intents and purposes I did
@@ -4653,15 +3650,9 @@ those people that do not want me “to live.
 Fortunately there is no longer any one who
 wants me to live; fortunately, I shall cause
 no one any unhappiness. I do not want to
-
 j 217
-
-
-
 ---
-
 ## Scan page 220
-
 cause any one who wants me to live any
 unhappiness. Now there are none such peop!e. ;
 there is not a single one. Iam glad, J. am
@@ -4695,11 +3686,8 @@ Do you want to become an advisor too? Tell
 me if you do and J’ll get you a position. It
 really doesn’t matter if one becomes a mere
 f e ~.
-
 ---
-
 ## Scan page 222
-
 gatekeeper, for there will also be new guests:
 and new gifts and presents, new flatteries. . . .
 We have had a heavy snow here. How
@@ -4733,11 +3721,8 @@ have anything adequate to say. _
 I really began to forget him; his face no ionger
 appeared so frequently in my memory. But in ,
 221 :
-
 ---
-
 ## Scan page 224
-
 less than ten days after I got his letter I began
 to receive the Academic Weekly published in the
 city of S. I rarely read these things, but since
@@ -4752,7 +3737,6 @@ were’ frequent accounts of Lien-shu's oddities,
 now described as anecdotes, and there) was always
 a suggestion that “An unusual man always has
 his unusual ways.”
-
 I did not know why it was, but while I was aa
 receiving these reminders of Lien-shu ‘his face
 grew vaguer and vaguer in my memory. Yet at
@@ -4771,19 +3755,12 @@ fly out of my window. Such caution kept one ke
 busy and enforced inactivity. So I had no time
 to think about Lien-shu. I might say that I had
 realy forgotten him.
-
-
-
 ---
-
 ## Scan page 226
-
 lalimaht Geeta: cdisslttiridd eee MOU cenit aaah om al b elaa mae
-!
 In spite of my efforts to be discreet’ however,
 I did not last through the semester. I left Shan-
 yang toward the end of May.
-Vea
 From Shan-yang I went to Li-cheng, and from
 there to Tai-ku. After more than six months of
 wandering I was still without a job, and I decided 8
@@ -4811,35 +3788,26 @@ Beside it stood a soldier or body-guard in military
 uniform talking to someone. The latter turned
 ‘out to be Big Liang’s grandmother. There were
 225 :
-
 ---
-
 ## Scan page 228
-
-y
 a few others around, labourers in short coats.
 My heart began beating violently. The old woman
 turned around and saw me, whereupon she cried:
 “Ah, you have returned? Why couldn’t you have
 come back earlier... .”
-
 “Who... who has died?” I asked, though
 there was little doubt now in my mind as to who
 it was. :
-
 “Mr. Wei. He passed away day before yes-
 terday.”
-
 ; Looking around I found the guest room rather
 ‘dark, probably lit with only one lamp. But the
 centre room was’ hung with mourning curtains,
 and outside of it-stood Big Liang and his brothers.
-
 “He is laid out in there,” Big Liang’s grand-
 mother said, pointing to the room. “After he
 received his appointment I gave up the centre
 room to him. He is laid in there now.” |
-
 Before the mourning curtains there was a
 Jong narrow table, and before that a square table.
 On the latter were laid out about ten dishes of
@@ -4850,19 +3818,13 @@ suspicion. I told them who I was and of my
 friendship with Lien-shu, testified by Big Liang’s
 grandmother, whereupon both their eyes and hands
 relaxed and they allowed me to go in.
-
 No sooner did I bow before the mourning table
 than there came the sound of weeping from below.
 I looked im that direction and saw a boy of over
 ten years of age prostrated' on a straw mat. He
-
 f 207
-
 ---
-
 ## Scan page 230
-
-
 ‘was in white, a large string of hemp tied around }
 his closely cropped head.
 ! After exchanging greetings with the men in
@@ -4895,12 +3857,8 @@ mountain village. After this speech everything was
 again still as death, the living as well as the
 dead.
 I felt weary but I was not particular'y
-
-
 ---
-
 ## Scan page 232
-
 hina ae 1
 sorrowful. I joined Big Liang’s grandmother in
 the yard and talked with her. I learned that the
@@ -4912,7 +3870,6 @@ present. She became very much interested in her
 subject and poured out a stream of words. She
 spoke of his illness, of the last months of his life,,
 and of her candid* opinion of him. ;
-
 “Do you know that Mr. Wei became quite a
 different person after he came under his lucky
 star? His head was raised high and he looked
@@ -4927,7 +3884,6 @@ so he threw it out into the yard—right here—
 and said, ‘Old wench, you take it and stuff
 yourself with it.’ People came. and went all the
 time after he came under his lucky star. I gave
-
 up the centre’ room to him and moved into one
 of the side chambers myself. He was so different
 from ordinary people after he came into the
@@ -4936,20 +3892,14 @@ to talk and joke so much. If you had come 2
 month earlier, you would have been in. for some
 good fun, for there were banquets two days out
 of three: with jolly conversation, laughter, singing,
-
 : 231
-
 ---
-
 ## Scan page 234
-
 “ ’
  -versifying,® games ... )
-
 ! “He used to fear the children more than
 children feared their fathers. He was always so 4
 gentle and patient with them, But he was quite
-
 different of late. He teased and joked with them, !
 and Big Liang and his brothers all liked to play
 with him and. went to him whenever they had ‘
@@ -4957,21 +3907,16 @@ the opportunity. He had so many ways of teasing ;
 them; he would make them bark like dogs or
 kowtow to”the ground before he would buy them
 what they wanted. Oh, it) was such fun. Two
-
 months ago Second Liang asked him to buy a fair
-
 of shoes for him.He had to kowtow three times,
-
 He is wearjng _ those shoes. now, still in good
 condition.” :
-
 She stopped when one of the men. in long
 white robes came out, I asked her about Lien- ,
 shu’s illness, but she did not know much about
 that. She said that he ‘had been growing thinner
 and thinner and thinner, but no one paid any
 attention to it as he always seemed to be in such
-
 good spirits. A month or so .ago he had several
 hemorrhages but did not seem to have consulted t
 any physician. Then he had to stay in bed. He
@@ -4983,13 +3928,9 @@ a word. His Honour Thirteen was suspicious and
 thought that he pretended to be unable to speak, :
 but she was not sure. There are those who say
 that consumptives lose their power of speech
-
 : 233
-
 ---
-
 ## Scan page 236
-
 before their death. x
 “Mr. Wei was a very strange man,” she said :
 suddenly lowering her voice. “He would not try
@@ -5022,19 +3963,14 @@ A store clerk arrived with a package of
 clothes. The relatives of the deceased took out the
 ~ clothes and went behind the moukning curtains.
 -_ Presently the curtains were pulled back. The
-
-
-
 ---
-
 ## Scan page 238
-
 underclothes had been changed; now they proceeded
 to put on his outer garments. These occasioned .
 ~ some surprise in me, for he.wore khaki’ military
 trousers with wide red stripes and they were
 putting on him a military coat with bright gold i
-shoulder stripes. I did not know hat rank they « ;
+shoulder stripes. I did not know what rank they
 represented nor how he got that rank. He was
 placed in the coffin in a rather awkward position,
 At his feet was placed a pair of brown leather
@@ -5061,14 +3997,11 @@ that the thick clouds had dispersed and the full
 moon was shedding a cold, still brilliance.
 I walked very rapidly as if trying to break
 237 :
-
 ---
-
 ## Scan page 240
-
 through something heavy and oppressive, but I ©
-gould not. There seemed to be something trying
-to strizele its way out of my ears, After a long
+could not. There seemed to be something trying
+to struggle its way out of my ears, After a long
 while it succeeded in freeing itself. It was as a 4
 long howl, the how! of a wounded wolf howling ~
 im the wilderness at night, cries that conveyed
@@ -5076,20 +4009,16 @@ pain, fury and sorrow.
 My heart felt lighter after this and I walked
 on serenely on the damp stone paved road under
 the moonlight.
-; (From Tien-Sha. Monthly)
 289 :
-
 ---
-
 ## Scan page 242
 
-ft FER ot Serre ve i hee Da ae SAP Eh EL, 4g ON ge oe ee OE pee. SOO
-. ‘
+
 Divorce
-“Ah, ‘Uncle Mu! Happy New Xear and good
+“Ah, ‘Uncle Mu! Happy New Year and good
 luck!”
 “How are you, Pa San? Happy New Year!”
-“4i, ai, Happy New Year. So Ai-ku is here
+“Ai, ai, Happy New Year. So Ai-ku is here
 too. 26” % i
 “Greetings, Grandfather Mu, greetings . . .”
 Several voices harmonized in this shouting
@@ -5106,54 +4035,40 @@ his left, and just opposite Pa San.
 “Going up to the city. Grandfather Mu?”
 asked one fellow, who ‘had a face like the shell
 of a crab.
-
 ' “No, not to the city,” he replied. His voice
 sounded a little depressed, but there was no
 noticeable change in his heavily wrinkled features, <
 ruddied* by exposure. “Merely paying a visit to
 Pang Village.”
-
 For a while every one was silent and simply ;
 stared at the old man and his daughter.
 “Is it Ai-ku’s business again?” Pa San finally
-
-
 ---
-
 ## Scan page 244
-
 asked.
 “It’s Ai-ku. Really, it is worrying me to death.
 It has already dragged on now for. three years—
 how many times, fighting and talking peace! In
 the end it is still unsettled...”
-
 “Back to. Wei’s house then, eh?”
-
 “Back to Wei’s. He has tried to settle the
 affair between Ai-ku and her husband several
 times, but I have rejected his terms.' Never mind,
 this time they. are celebrating New Year, and
-
 even old Squire Seventh» will be there.”
-
 “Squire Seventh!’ Pa San opened his eyes :
 very wide. “Even the old Squire is putting in his 4
 word? Well, as a.matter of fact,” said: Upele Mu
-
 lowering his eyes, “we smashed their -kitchen
 stove last year,.and blew a-breath of bat air in
-
 their place. Besides, actually, there-would be no
 point in Aitku's returning to her husband now>
 it’s too late.”
-
 “Moreover, I don't want to return,”/said Ai-
 ku, lifting her head indignantly...“\1 won't easily ‘
 forget. Think of it! The’young beast found himself
 a widow, and then wanted to get rid of me! But
 is‘it such a simple thing to throw out a wife?
-
 The old beast took his son’s part, and he decided
 to dismiss me too. Entirely too simple! What about
 Squire ‘Seventh? Can he be unjust merely because
@@ -5162,14 +4077,9 @@ He cannot be so unreasonable as' Mr Wei, -and
 only repeat, ‘Separate, better Separate, better
 separate.’ I will tell him what troubles P’ve endured
 these years, and we'll see who he decides is right!”
-
 ---
-
 ## Scan page 246
-
 Se ee
-
-!
 Pa San was silenced by Ai-ku’s eloquence’.
 ! Nobody spoke, and there was only the soft
 slap of the water against the bow* of the boat.
@@ -5185,7 +4095,7 @@ eighteen villages bordering the sea’ is there anyone
 who does not know of you? We all have known
 for some time also about that young fellow. Shih’s
 becoming stuck on the little widow. When you
-went last year with your six sons and «lestroyed
+went last year with your six sons and destroyed
 their kitchen, was there anyone who denied that
 they had got exact’; what they deserved? You
 move in and out of lofty doors, the big gates
@@ -5202,23 +4112,15 @@ Seventh or Eighth! I will pursue*-this and demand
 ay rights until their house collapses’ and their men
 are all dead Hasn’t Wei tried to get me to make’
 am agreement four different times? Even my
-
-
 ---
-
 ## Scan page 248
-
-
 ‘father has been mice dmzsyenwaceu vy tne signt or
 the sottlement-money hie. offered.”
-
 “You—rape’ your mother!” Chuang Mu-san
 muttered under his breath.
-
 “But, Uncle Mu, isn’t it true that the Shih
 family sent a feast to Master Wei last year?”
 commented the crabshell-faced Pa San.
-
 “Never mind that,” said Wang Teh-kuei. “Can
 amere feast make people so addle-pated* that
 they lose their sense of justice? If so, we might
@@ -5232,30 +4134,21 @@ our wretched village, came back from Peking. He
 is a fellow who has seen the face of the world—
 unlike the rest of us, Now, he said there is a certain
 Madame Kuang up there —” :
-
 “Wang’s Jetty!” shouted the boatman just then.
 “Passengers ashore for Wang’s Jetty!”
-
 “Here, me!” cried fatty, hastily snatching up
 his’ pipe and rushing from the cabin of the mov-
-
 Ymg boat. He leaped to the shore as the boat drew
 near.
-
 Then he turned and politely nodded farewell*
 to those left in the little craft*, which was soon oy
 moving forward again, amid stillness broken only
 by the splash of the oars. Pa San fell asleep,
 gazing at the feet of Ai-ku opposite him. Two
 old women in the rear cabin began chanting*
-
 , 247
-,
-
 ---
-
 ## Scan page 250
-
 ; coy) whale Bayh hee
 Buddha’s name over their beads, looking at’Ai-ku
 also, and nodding knowingly’. :
@@ -5289,27 +4182,19 @@ tempt and satisfaction, but this time he did not.
 For some reason Squire Seventh obscured the
 view. There, he was, in the midst of the whole
 picture, and he confused it and changed the total
-
-
 ---
-
 ## Scan page 252
-
 effect.
-
 The boat moved on and nobody spoke, but
 there was the murmur of the old women, chanting
 holy words. The others seemed to be meditating
 with Ai-ku and Chuang Mu-san over that affair
 that stretched before them. %
-
 “Well, Uncle Mu, here youare. P‘ang Village.
 Put your venerable bones ashore.”
-
 Startled from his musing, Chuang Mu-san
 looked up tosee the shrine of Kuei-hsin immediately
 in front of him. F
-
 Ai-ku followed him ashére. They passed the
 shrine and moved on in the direction of Master
 Wei's home, where the negotiations' between the .
@@ -5318,7 +4203,6 @@ thirty doors, moving in a southerly direction,
 turned a corner, and they were there. Four dark-
 sailed boats stood at anchor in front of the big
 gate.
-
 Stepping across the blacktacquered door-sill’,
 they were greeted by the gateman and invited into
 his room. Behind him, already seated at two tables,
@@ -5326,20 +4210,14 @@ were some boatmen and a number of tenant?
 farmers. Ai-ku gavea quick glance at them merely
 to make certain that neither the young_nor the
 old beast was in the group.
-
 These working people brought out portions of
 New Year cake and tea‘ and offered it to them,
 and Aiku, without knowing quite why, felt
 suddenly uncomfortable and embarrassed. She
 began to speculate about Squire Seventh. Was it
 possible that because he had become the magistrate’s
-
-251-
-
 ---
-
 ## Scan page 254
-
 ie >) %
 rs y
 blood brother he could no longer render’ an imp
@@ -5374,26 +4252,19 @@ was the practice then.” He caressed his nose
 with*it as he spoke. “It’s too bad it come from a
 fairly recent tomb, probably not much earlier than
 Han‘. Nevertheless, it is worth owning. See here, re
-
-
 ---
-
 ## Scan page 256
-
 look at this spot. This’ is a mercury stain, (the
 result of the mercury that was put in corpses in
 olden times to keep them from decaying too
 rapidly).”
-
 Several heads at once concentrated around
 the anus-stop to see exactly what the Squire meant.
 One of them of course was Master Wei. The rest
 : were those of rich young men whom Ai-ku had
-
 hitherto failed to notice, due to the fact that
 Squire Seventh had altogether obliterated' them
 by his imposing* bulk.
-
 Aiku did not comprehend the meaning of the
  Jatter part of the comments’ reported above. She
 did not, moreover, dare to begin, just as this
@@ -5406,7 +4277,6 @@ glimpse gave Ai-kn the impression that both of
 them looked older and wearier thaneven half a
 year ago.
 Suddenly everybody dispersed‘, and the mar-
-
 vellous jade, with its ‘mercury stain’, was left in
 Master Wei’s possession. He held it affectionately,
 "moving it warmly in his fingers, as he turned to
@@ -5416,12 +4286,8 @@ Chuang Mu-san. -
 “Your sons hayen’t come?” ;
 “They were too busy.” :
 “As a matter of fact, why should you yourself
-
-
 ---
-
 ## Scan page 258
-
 be bothering in the New Year—and in the First
 ' Moon? But iv is still the same affair, you see. . . i
 "You have had enough of disputes, I dare say.
@@ -5454,12 +4320,8 @@ other people, those who lived along the sea-coast,
 in awe. Now he did not seem to have a word to
 say, and she did not understand his timidity.
 What was there to be afraid of? She had heard
-
-
 ---
-
 ## Scan page 260
-
 Squire Seventh’s opinions on the jade relic, and,
 although she did not clearly comprehend the ful!
 profundity of his remarks, she could find nothing
@@ -5471,13 +4333,13 @@ and so she spoke up boldly.
 learning, ver. different from us villagers, with a
 knowledge of what is right. I have been wronged,
 and I wish to appeal, therefore, for justice. After
-I became dat.ghter-in-law in the Shih family I
-tried my best to fulfil the duties of a “sithful ,
+I became daughter-in-law in the Shih family I
+tried my best to fulfil the duties of a “faithful ,
 wife. I kept my head low, and I did not omit a_
 single rite. But they mistreated me from the ~
-beginning, and «posed? before me like the god who
-chases evil spirits, One year a weaselkilled a ;
-cock that belonged to them, and they blared me
+beginning, and opposed before me like the god who
+chases evil spirits, One year a weasel killed a ;
+cock that belonged to them, and they blamed me
 . for it, saying that .1 had forgotten to shut the
 chicken-coop.* Actually it-was because of their
 mangy” dog—cut off its hea(l!_who knocked open
@@ -5493,11 +4355,8 @@ know the classics and wisdom know everything.
 Well, he acted that way because he had already
 become infatuated‘ with that lewd harlot’ and
 259 ;
-
 ---
-
 ## Scan page 262
-
 i ee Oe ei a eae Spears (Cnr, (SP eT OSs eee eee) Se Ph ee
 a *
 wanted‘to get rid of'me! But I, who was betrothed a
@@ -5511,13 +4370,13 @@ prefect* ____”” f
 “Seventh Squire knows all about these things,” 5
 Master Wei interrupted her. “Ai-ku, unless you
 change your attitude you will, accomplish nothing.
-You are still the same, Tsee, Look atyour father,
+You are still the same, Tsee, Look at your father,
 how reasonable he is. But you and your brothers. ..!
 Well, suppose “you do take the matter to the
 prefect? Won’t the prefect also consult Seventh ;
-Squire? By then .t will also have become a pvblic
+Squire? By then it will also have become a public
 scandal,’ there will be no face for anybody——*
-“I am ieady tos*-' @my lifeon the outcome,‘
+“I am ready to stake my life on the outcome,
 even so, and although it may ruin both families!”
 “This is not.an affair_on which to stake your
 life,” spoke Squire:Seventh at last. “You are still
@@ -5532,31 +4391,23 @@ not only locally but also in Shanghai, Peking, and
 even in foreign countries. If you distrust me,
 here is a young man who has just returned from
 Peking. You may ask him yourself.” He turned
-
-
 ---
-
 ## Scan page 264
-
 F Fae erate Na ef GER SO REE eae CBRL et aR Gtr, cas
 to a sharp-chinned young master near by and ;
 demanded, “Is that not so?”
-
 “Precisely,” replied the sharp-chinned one,
 making his body stiff and his voice suave! and
 respectful.
-
 Ai-ku began to realize that she stood alone. ‘
 Her father had- said nothing, her brothers had ;
 not dared to come. Master Wei had always taken
-
 the side of the Shih family. Squire Seventh had
 ewidently been influenced in the same direction, ‘
 amd even this young -sharp-chin- (with his air of
 humility? and his voice like a wounded bug) was
 beating his gong’ with the prevailing* wind. Her
 mind in confusion, she niade a last struggle. —
-
 “Can it ‘be true thak even you, Squire
 Sieventh—-?” Herieyes hesitated between surprise,
 perplexity’, and despair. “Yes—we erude people
@@ -5568,22 +4419,15 @@ ments! They know wellenough how to crawl
 imto the dog’s hole and find out about things; they
 know well enough How to win favour by flattery’
 amd bribery——”
-
 Young beast, who had remained mute, standing
 behind her, now broke in, saving, “Look at her,
-
 Squire Seventh! You see how she acts even in
 tine presence of a great man? - In our home she
 was such a pest that even the domestic animals
-gould get no peace. She calls my father ‘old beast’
+could get no peace. She calls my father ‘old beast’
 dind me ‘young beast,” or *bastard”——”
-
-
-
 ---
-
 ## Scan page 266
-
 . a Rad “3 - pd 33 ae eee
 Aik turned upon him and shouted: “Who— "
 you that were born of a lewd mother with ten
@@ -5617,12 +4461,8 @@ attention, as if the command had entered his
 very bones and brought new resilience’ to them. ~
 “Yes, sir,” he answered, and backed away a
 few steps before leaving the august’ presence.
-
-
 ---
-
 ## Scan page 268
-
 bi ;
 Ai-ku knew that something unexpected was be
 about to happen, and she felt helpless to prevent "|
@@ -5637,7 +4477,7 @@ whatever decision Squire Seventh may reach.”
 ‘There was still nota cheep in“the entire room. ;
 Although: she had spoken’ very softly, spinning her.
 words out as thin as a strand® of silk, Master
-Wei had heard her, and, jumpingup as’ if\a clap
+Wei had heard her, and, jumping up as’ if\a clap
 of thunder had just been detonated,* he shouted “i
 out:
 “Good! Squire Seventh is) réally just, and Ai
@@ -5652,67 +4492,53 @@ Ai-ku saw ‘hat her father had already reached
 into his girdle and was fumbling for something.
 Then her attention turned to that rod-like man
 who had received the Squire’s command. He had
-reappeared, carrying a small, flat, jetblack obiect ~
+reappeared, carrying a small, flat, jet-black object ~
 shaped like a tiny tortoise, which he handed to
 his master. Fearing that the affair might yet take
 a turn for the worse, she glanced quickly at her
 oor
-
 ---
-
 ## Scan page 270
-
 ‘Meany eee tee ge ee gy ee Re eee ee
-father, and was relicved to see him already
+father, and was relieved to see him already
 unfolding a blue cloth packe 2
-
 Squire Seventh now removed the head of the
-
 tortoise, and from the inside poured something
-
 out Of the neck into the palm of his hand. The 2
 rod-like man took the- object and left the room.
 The Squire pressed one of his fingers into the
 substance in his hand, and then rubbed it into
 his nostrils, staining his upper lip a faint brown.
 He wrinkled up his nose to sneeze.
-
 Chuang Mu-san was counting the. silver pieces. ie
 Master Wei removed some dollars» from an -
 uncounted pile and handed them back to.the old
 beast. The two copies of the red and green cards,
 bearing the birth-characters of bride and groom,
 were returned to both families, and Wei remarked:
-
 “You~have kept them-in good condition. Count
 the money carefully, Lao Mu; this is no joking
-mattter—counting ‘money is a serious business.”
-
-** Ahechoooo!” ~Ai-ku.knew-that it was Squire
-Sewenth sneezing, but.she could not help turning
-to look at him. She saw his-mouth hang ng open
-andi his nose wrinkled up comically. Between his
+matter—counting ‘money is a serious business.”
+** Achoooo!” ~Ai-ku.knew-that it was Squire
+Seventh sneezing, but.she could not help turning
+to look at him. She saw his-mouth hanging open
+and his nose wrinkled up comically. Between his
 fingers he again held in his hand that same jade
-insttrument—“buried with our ancestors, as was
+instrument—“buried with our ancestors, as was
 the practice then”—and was rubbing it against
 the: side of his nose.
-
 Chuang Mu-san finished counting the money
-witih some difficulty, and both sides put away their
+with some difficulty, and both sides put away their
 marriage cards. Every one seemed to relax’, tense’
 expressions gave away to relieved looks, and an
 air of harmony pervaded* the guest chamber.
 
-: ee 269
-a
 
 ---
-
 ## Scan page 272
-
 “Good! The matter is at last settled up in 4
 round perfection,” announced Wei. Noticing that
-everw one was preparing to leave, he sighed and
+everyone was preparing to leave, he sighed and
 said, “Then there is nothing else. Congratulations
 fo both families!’ The knot is finally broken, and
 ‘we can drink a cup of New Year wine before
@@ -5721,49 +4547,12 @@ you go. This is a rare occasion.” ;
 it ‘wait until next year.” V
 : “Thank you, Wei Lao-yeh. We won’t drink
 “just now. We have things. to to,” old beast and
--youmg beast responded’ in chorus.
+-young beast responded’ in chorus.
 “Ah-bh. Not justa drop or two before you
-/y02”” Wei asked, looking at Ai-ku, the last to leave.
+you?”” Wei asked, looking at Ai-ku, the last to leave.
 “No, not now, thank you, Master Wei.” :
 
-Fr. China Today)
-, F
-an
-
-% :
 
 ---
-
 ## Scan page 274
-
-. ee use = ey
-; MAS Fie viad 4
-472 - ta
-« ‘ . a.
-. ¥ ¢ a
-ee = eS
-3 : « ae
-? pt eae wa
-g : Pepe ts,
-= -g “ve
-ei oe ae
-F aes sae Bee:
-over ry ae aa
-ses of > eer. SS a
-= 4X em a \ “
-eae (a -Se ron Siem ae
-kes g
-Ne Uae ne? / | ag
-x; : A ; . Mee Sg
-Et DK. of * Sg
-Ne x Se | fe
-hc bs ark.
-So ww ;
-. x Sort gee =|
-. el * A 4
-; 3 % = i i
-X ° {
-j ¢ —
-4 j ae ;
-“ 3 Sci j ® * cz ‘
-: > «08h FGA Ly a oe Y i fara
+[Illustrated scan page, no readable story text.]

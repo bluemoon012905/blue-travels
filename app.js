@@ -473,8 +473,8 @@ const radioTracks = [
   },
   {
     title: 'April Showers',
-    artist: 'Paul Whiteman · 1921',
-    file: 'assets/radio/audio/april-showers-1921.mp3',
+    artist: 'Victor recording · 1922',
+    file: 'assets/radio/audio/april-showers-1922.mp3',
     weight: 1,
     startAt: 0.8,
   },

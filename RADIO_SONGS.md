@@ -19,18 +19,18 @@ These are the public-domain recordings intended for the static radio player. The
 | There’ll Be Some Changes Made | Ethel Waters & The Jazz Masters | 1921 | [Wikimedia Commons 1921 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1921) | `assets/radio/audio/there-ll-be-some-changes-made.opus` | Downloaded |
 | Royal Garden Blues | Mary Stafford and Her Jazz Band | 1921 | [Wikimedia Commons 1921 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1921) | `assets/radio/audio/royal-garden-blues.mp3` | Queued |
 | Blue Streak | Roy Bargy | 1921 | [Wikimedia Commons 1921 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1921) | `assets/radio/audio/blue-streak.opus` | Queued |
-| April Showers | Paul Whiteman | 1921 | [Wikimedia Commons 1921 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1921) | `assets/radio/audio/april-showers-1921.mp3` | Queued |
+| [April Showers](https://commons.wikimedia.org/wiki/File:April_Showers_(1922_recording).mp3) | Victor recording | 1922 | Wikimedia Commons | `assets/radio/audio/april-showers-1922.mp3` | Downloaded |
 | Downhearted Blues | Alberta Hunter | 1922 | [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Downhearted_Blues_-_Alberta_Hunter.ogg) | `assets/radio/audio/downhearted-blues-alberta-hunter.ogg` | Queued |
 | Lovable Eyes | The Columbians | 1922 | [Wikimedia Commons 1922 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1922) | `assets/radio/audio/lovable-eyes.mp3` | Queued |
 | On the Alamo | Benson Orchestra of Chicago | 1922 | [Wikimedia Commons 1922 composition category](https://commons.wikimedia.org/wiki/Category:On_the_Alamo_(1922_composition)) | `assets/radio/audio/on-the-alamo.mp3` | Queued |
-| Panama | New Orleans Rhythm Kings | 1922 | [Wikimedia Commons 1922 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1922) | `assets/radio/audio/panama-new-orleans-rhythm-kings.mp3` | Queued |
+| [Panama](https://commons.wikimedia.org/wiki/File:Panama_(1922_sound_recording).mp3) | New Orleans Rhythm Kings | 1922 | Wikimedia Commons | `assets/radio/audio/panama-new-orleans-rhythm-kings.mp3` | Downloaded |
 | Runnin’ Wild | The Virginians | 1922 | [Wikimedia Commons 1922 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1922) | `assets/radio/audio/runnin-wild-virginians.mp3` | Queued |
 | Way Down Yonder in New Orleans | The Georgians | 1922 | [Wikimedia Commons 1922 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1922) | `assets/radio/audio/way-down-yonder-in-new-orleans.mp3` | Queued |
 | Malayan | Banda Victor | 1920 | [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:1920_recording_of_Malayan_(Foxtrot)_by_Banda_Victor.ogg) | `assets/radio/audio/malayan-foxtrot.ogg` | Queued |
 | Avalon | Art Hickman’s Orchestra | 1920 | [Wikimedia Commons 1920 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1920) | `assets/radio/audio/avalon-art-hickman.wav` | Queued |
 | Crazy Blues | Mamie Smith and Her Jazz Hounds | 1920 | [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Mamie_Smith,_Crazy_Blues.ogg) | `assets/radio/audio/crazy-blues-mamie-smith.ogg` | Queued |
-| My Isle of Golden Dreams | Victor recording | 1920 | [Wikimedia Commons 1920 audio category](https://commons.wikimedia.org/wiki/Category:Audio_files_of_1920) | `assets/radio/audio/my-isle-of-golden-dreams.mp3` | Queued |
-| Everybody’s Jazzin’ It | Collins & Harlan | 1917 | [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Collins_%26_Harlan_-_Everybody%27s_Jazzin%27_It_%281917%29.ogg) | `assets/radio/audio/everybodys-jazzin-it.ogg` | Queued |
+| [My Isle of Golden Dreams](https://commons.wikimedia.org/wiki/File:My_isle_of_golden_dreams_(1920_recording).mp3) | Victor recording | 1920 | Wikimedia Commons | `assets/radio/audio/my-isle-of-golden-dreams.mp3` | Downloaded |
+| [Everybody’s Jazzin’ It](https://commons.wikimedia.org/wiki/File:Collins_%26_Harlan_-_Everybody%27s_Jazzin%27_It_%281917%29.ogg) | Collins & Harlan | 1917 | Wikimedia Commons | `assets/radio/audio/everybodys-jazzin-it.ogg` | Downloaded |
 
 ## Rights note
 
@@ -51,7 +51,11 @@ Currently present in `assets/radio/audio/`:
 - `rose-room.ogg`
 - `murray-walk.oga`
 - `there-ll-be-some-changes-made.opus`
+- `april-showers-1922.mp3`
+- `panama-new-orleans-rhythm-kings.mp3`
+- `my-isle-of-golden-dreams.mp3`
+- `everybodys-jazzin-it.ogg`
 
-The player has 25 song entries in the research list, but only the 11 downloaded recordings are eligible for playback until the queued files are added. The ad slot is also disabled until `assets/radio/audio/advertising-record.ogg` is downloaded. The radio uses weighted selection and keeps the previous six songs out of the draw, so a song cannot immediately return and normal repeats are separated by several tracks.
+The player has 25 song entries in the research list, with 15 downloaded recordings currently eligible for playback. The ad slot is also disabled until `assets/radio/audio/advertising-record.ogg` is downloaded. The radio uses weighted selection and keeps the previous six songs out of the draw, so a song cannot immediately return and normal repeats are separated by several tracks.
 
 Nine additional candidate recordings have been researched but are still pending download because Wikimedia rate-limited the fetches: “Hesitating Blues,” “Farewell Blues,” “Jazzin’ Babies Blues,” “Pale Moon,” “Charley, My Boy,” “It Had to Be You,” “I’ll Build a Stairway to Paradise,” “Yelping Hound Blues,” and “Daffy-Dill.”
