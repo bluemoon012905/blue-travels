@@ -71,7 +71,9 @@ function initializeMap() {
   const editorMode = window.location.protocol === 'file:'
     || ['localhost', '127.0.0.1', '::1'].includes(window.location.hostname)
     || new URLSearchParams(window.location.search).has('edit-map');
-  const layoutKey = 'blue-travels.map.layout';
+  // Bump this when publishing a new source layout so stale browser-local
+  // coordinates cannot keep overriding the production default.
+  const layoutKey = 'blue-travels.map.layout.v2';
   const fontSettingsKey = 'blue-travels.map.fonts';
   const fontStacks = {
     chinese: {
@@ -121,9 +123,11 @@ function initializeMap() {
 
   applyFontSettings();
   const defaults = {
-    x: 0,
-    y: 0,
-    scale: 1,
+    // These are published defaults. localStorage is only an optional visitor
+    // override; it must never be the only place the production layout exists.
+    x: Number(mapVisual.dataset.mapDefaultX) || 0,
+    y: Number(mapVisual.dataset.mapDefaultY) || 0,
+    scale: Number(mapVisual.dataset.mapDefaultScale) || 1,
     markers: Object.fromEntries(markedLocations.map((location) => [location.dataset.mapMarker, {
       x: Number(location.dataset.mapX),
       y: Number(location.dataset.mapY),

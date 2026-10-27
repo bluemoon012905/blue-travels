@@ -10,11 +10,11 @@ Radio assets live together under `assets/radio/`: the two radio illustrations ar
 2. Add its filename, title, place, and date to `posts/index.json`.
 3. Deploy the folder to any static host (GitHub Pages, Netlify, Cloudflare Pages, etc.).
 
-The homepage reads the first three entries from the manifest and renders their opening paragraph. Province marks are saved in the visitor's browser via `localStorage`; they are intentionally local to each reader.
+The homepage reads the first three entries from the manifest and renders their opening paragraph. The published map position is stored in `index.html` on `.map-visual` via `data-map-default-x`, `data-map-default-y`, and `data-map-default-scale`. Visitor edits are saved in that visitor's browser via `localStorage` and do not change the published default.
 
 ## Adjust the map locally
 
-Open the map with `?edit-map=1` (for example, `http://localhost:8000/?edit-map=1`) to reveal the local editor. Drag the map to reposition it, drag a city label to reposition that marker, and use the size slider to adjust the default map scale. Reset or clear the saved layout from the editor at any time. The layout is stored only in that browser's `localStorage`. On each visit, the map starts at whole-China view and animates to that saved default; visitors can then drag and wheel-zoom freely without changing the saved default.
+Open the map with `?edit-map=1` (for example, `http://localhost:8000/?edit-map=1`) to reveal the local editor. Drag the map to reposition it, drag a city label to reposition that marker, and use the size slider to adjust the map scale. Reset or clear the saved layout from the editor at any time. To publish a corrected map position, copy the resulting `x`, `y`, and `scale` values into the three `data-map-default-*` attributes on `.map-visual`, then deploy the changed `index.html`. The layout is otherwise stored only in that browser's `localStorage`.
 
 ## Adding a stop
 
