@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Hesitation by Lu Xun — page-by-page English and Chinese editions." />
+    <title>Hesitation — Blue Travels Library</title>
+    <link rel="stylesheet" href="reader.css" />
+  </head>
+  <body>
+    <main class="reader-shell">
+      <header class="reader-header">
+        <a class="back-link" href="../">← map</a>
+        <span class="library-label">Blue Travels / Library</span>
+        <a class="source-link" href="README.md">about this transcription</a>
+      </header>
+
+      <section class="book-intro" aria-labelledby="book-title">
+        <p class="eyebrow">Lu Xun · 鲁迅</p>
+        <h1 id="book-title">Hesitation</h1>
+        <p class="book-subtitle">A bilingual, page-by-page reading edition</p>
+      </section>
+
+      <section class="reader" aria-label="Book reader">
+        <div class="reader-toolbar">
+          <label class="edition-picker">
+            <span>Edition</span>
+            <select id="edition-select">
+              <option value="english">English translation</option>
+              <option value="traditional">繁體中文 · Traditional Chinese</option>
+              <option value="simplified">简体中文 · Simplified Chinese</option>
+            </select>
+          </label>
+          <div class="page-status" aria-live="polite"><span id="page-current">—</span> / <span id="page-total">—</span></div>
+        </div>
+
+        <article class="book-page" id="book-page" aria-live="polite">
+          <div class="loading">Opening the book…</div>
+        </article>
+
+        <nav class="page-nav" aria-label="Book pages">
+          <button id="previous-page" type="button">← Previous</button>
+          <label class="page-jump">
+            <span>Go to page</span>
+            <input id="page-input" type="number" min="1" inputmode="numeric" />
+          </label>
+          <button id="next-page" type="button">Next →</button>
+        </nav>
+        <p class="keyboard-hint">Use ← and → to turn pages.</p>
+      </section>
+
+      <footer class="reader-footer">
+        <a href="english.md">Raw English Markdown</a>
+        <a href="chinese-traditional.md">Raw Traditional Chinese Markdown</a>
+        <a href="chinese-simplified.md">Raw Simplified Chinese Markdown</a>
+      </footer>
+    </main>
+    <script src="reader.js"></script>
+  </body>
+</html>

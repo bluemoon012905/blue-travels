@@ -1,5 +1,7 @@
 # Hesitation — extracted text
 
+Read the [page-by-page edition](index.html).
+
 Source: `NCL-9900011422.PDF` (274-page image-only scan).
 
 Files:

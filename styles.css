@@ -69,6 +69,7 @@ a { color:inherit; text-decoration:none; }
 .footnote-place:hover,.footnote-book a:hover { color:var(--accent); }
 .footnote-book { display:grid; gap:4px; margin-top:13px; padding-top:10px; border-top:1px solid var(--line); color:var(--muted); font:10px/1.4 var(--mono); }
 .footnote-book span { color:var(--ink); font-size:12px; }
+.footnote-book .book-title { color:var(--ink); font-size:12px; }
 .footnote-book a { color:var(--muted); }
 .labels-hidden .city-label { opacity:0; visibility:hidden; }
 .city:hover .city-label b { color:var(--accent); }
