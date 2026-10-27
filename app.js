@@ -68,12 +68,13 @@ function initializeMap() {
   const englishFontInput = document.querySelector('[data-city-font-english]');
   const resetButton = document.querySelector('[data-map-reset]');
   const clearButton = document.querySelector('[data-map-clear]');
+  const exportButton = document.querySelector('[data-map-export]');
   const editorMode = window.location.protocol === 'file:'
     || ['localhost', '127.0.0.1', '::1'].includes(window.location.hostname)
     || new URLSearchParams(window.location.search).has('edit-map');
   // Bump this when publishing a new source layout so stale browser-local
   // coordinates cannot keep overriding the production default.
-  const layoutKey = 'blue-travels.map.layout.v2';
+  const layoutKey = 'blue-travels.map.layout.v3';
   const fontSettingsKey = 'blue-travels.map.fonts';
   const fontStacks = {
     chinese: {
@@ -203,6 +204,28 @@ function initializeMap() {
     applyLayout();
   }
 
+  async function exportLayout() {
+    const source = JSON.stringify({
+      x: Number(layout.x.toFixed(2)),
+      y: Number(layout.y.toFixed(2)),
+      scale: Number(layout.scale.toFixed(2)),
+      markers: Object.fromEntries(Object.entries(layout.markers).map(([key, marker]) => [key, {
+        x: Number(marker.x.toFixed(2)),
+        y: Number(marker.y.toFixed(2)),
+      }])),
+    }, null, 2);
+    try {
+      await navigator.clipboard.writeText(source);
+      if (exportButton) {
+        const originalLabel = exportButton.textContent;
+        exportButton.textContent = 'copied';
+        window.setTimeout(() => { exportButton.textContent = originalLabel; }, 1400);
+      }
+    } catch {
+      window.prompt('Copy this published map layout into index.html:', source);
+    }
+  }
+
   function setEditorOpen(open) {
     if (!editor || !editorToggle) return;
     editor.hidden = !open;
@@ -231,6 +254,7 @@ function initializeMap() {
     });
     resetButton?.addEventListener('click', () => resetLayout());
     clearButton?.addEventListener('click', () => resetLayout(true));
+    exportButton?.addEventListener('click', exportLayout);
     chineseFontInput?.addEventListener('change', (event) => {
       fontSettings.chinese = event.target.value;
       saveFontSettings();
