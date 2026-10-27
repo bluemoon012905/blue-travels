@@ -29,6 +29,30 @@
                   <input data-map-scale type="range" min="0.65" max="8" step="0.01" value="1" />
                   <output data-map-scale-output>100%</output>
                 </label>
+                <label class="map-editor-select">Chinese font
+                  <select data-city-font-chinese>
+                    <option value="system-sans">System sans</option>
+                    <option value="noto-sans-cjk">Noto Sans CJK</option>
+                    <option value="noto-serif-cjk">Noto Serif CJK</option>
+                    <option value="source-han-sans">Source Han Sans</option>
+                    <option value="source-han-serif">Source Han Serif</option>
+                    <option value="microsoft-yahei">Microsoft YaHei</option>
+                    <option value="simsun">SimSun</option>
+                    <option value="kaiti">KaiTi</option>
+                  </select>
+                </label>
+                <label class="map-editor-select">English font
+                  <select data-city-font-english>
+                    <option value="dm-sans">DM Sans</option>
+                    <option value="dm-mono">DM Mono</option>
+                    <option value="playfair">Playfair Display</option>
+                    <option value="georgia">Georgia</option>
+                    <option value="arial">Arial</option>
+                    <option value="helvetica">Helvetica Neue</option>
+                    <option value="times">Times New Roman</option>
+                    <option value="courier">Courier New</option>
+                  </select>
+                </label>
                 <div class="map-editor-actions">
                   <button type="button" data-map-reset>reset</button>
                   <button type="button" data-map-clear>clear saved layout</button>
@@ -47,8 +71,20 @@
             <aside class="map-notes" aria-label="Map notes">
               <a class="footnote" href="posts/2026-10-21-shenyang-dalian.md">
                 <span class="footnote-number">1</span>
-                <span class="footnote-date">2026-10-21<br /><small>Shenyang → Dalian</small></span>
+                <span class="footnote-date"><strong>Shenyang</strong><small>沈阳 · travel note</small></span>
               </a>
+              <div class="footnote footnote-dalian">
+                <span class="footnote-number">2</span>
+                <div class="footnote-date">
+                  <a class="footnote-place" href="posts/2026-10-21-shenyang-dalian.md"><strong>Dalian</strong><small>大连 · hosted book</small></a>
+                  <div class="footnote-book" aria-label="Hesitation editions">
+                    <span>Hesitation</span>
+                    <a href="extracted-book/english.md">English</a>
+                    <a href="extracted-book/chinese-traditional.md">繁體中文</a>
+                    <a href="extracted-book/chinese-simplified.md">简体中文</a>
+                  </div>
+                </div>
+              </div>
             </aside>
           </div>
         </section>

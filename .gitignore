@@ -1,0 +1,15 @@
+# Local OCR dependencies and generated page images
+.ocr-tools/
+.ocr-work/
+
+# Local source material used by OCR
+*.[Pp][Dd][Ff]
+
+# Temporary files created by asset downloads
+*.part
+
+# Node and operating-system metadata
+node_modules/
+npm-debug.log*
+.DS_Store
+Thumbs.db

@@ -49,3 +49,5 @@ write the blogs (human only ofc)
 add "how and why" eventually. 
 
 ad removal side quest? (make them do go puzzles?)
+
+Pets? rewards for reading?

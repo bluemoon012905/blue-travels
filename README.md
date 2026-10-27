@@ -27,3 +27,9 @@ For each new stop on the map:
 5. Add a matching linked entry in `.map-notes` on the right, with the same number and the post date.
 
 The current first stop is Shenyang (沈阳) to Dalian (大连), footnote 1, dated `2026-10-21`.
+
+## Check radio assets
+
+Run `node --test test/radio-assets.test.js` to verify every song and ad referenced by the player exists, is non-empty, and has a recognizable audio-file header. The test intentionally fails while queued recordings have not been downloaded.
+
+To resume the queued Commons downloads, run `node scripts/download-radio-assets.mjs`. It skips files already present, retries transient failures with backoff, and leaves the player on local assets only.
