@@ -388,7 +388,44 @@ function initializeMap() {
   });
 }
 
+function initializeSimulationLauncher() {
+  const launcher = document.querySelector('[data-simulation-launcher]');
+  const loadButton = launcher?.querySelector('[data-simulation-load]');
+  const status = launcher?.querySelector('[data-simulation-status]');
+  if (!launcher || !loadButton || loadButton.dataset.ready === 'true') return;
+  loadButton.dataset.ready = 'true';
+  loadButton.addEventListener('click', () => {
+    if (loadButton.disabled) return;
+    loadButton.disabled = true;
+    loadButton.querySelector('span').textContent = 'loading…';
+    status.textContent = 'loading · preparing the first world';
+    const stylesheet = document.createElement('link');
+    stylesheet.id = 'simulation-stylesheet';
+    stylesheet.rel = 'stylesheet';
+    stylesheet.href = new URL('simulation/simulation.css', siteRoot).href;
+    document.head.appendChild(stylesheet);
+    const host = document.createElement('div');
+    host.className = 'simulation-app';
+    launcher.appendChild(host);
+    const script = document.createElement('script');
+    script.src = new URL('simulation/simulation.js', siteRoot).href;
+    script.onload = () => {
+      window.startBlueTravelsSimulation(host);
+      loadButton.remove();
+      status.textContent = 'loaded · simulation running';
+    };
+    script.onerror = () => {
+      host.remove();
+      loadButton.disabled = false;
+      loadButton.querySelector('span').textContent = 'load simulation';
+      status.textContent = 'could not load · try again';
+    };
+    document.body.appendChild(script);
+  });
+}
+
 initializeMap();
+initializeSimulationLauncher();
 
 // Blue FM is deliberately client-side: the first seed belongs to this browser,
 // and each new play is a fresh, deterministic broadcast starting point.
@@ -961,6 +998,7 @@ async function navigateWithinSite(url, addHistoryEntry = true) {
   // Re-run map setup so restored markers, routes, and local view state apply
   // to the newly inserted page.
   initializeMap();
+  initializeSimulationLauncher();
 
   window.scrollTo(0, 0);
 }
